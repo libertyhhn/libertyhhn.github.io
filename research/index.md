@@ -10,13 +10,14 @@ share: false
 
 
 <ol>
-  <li><b> Non-negative Matrix Factorization with Dual Constraints for Image Clustering<br>
   
-  <li><b> Adaptive method for nonsmooth nonnegative matrix factorization <br>
- 
-  <li><b> Blind spectral unmixing based on sparse nonnegative matrix factorization<br>
-
-  <li><b> Manifold optimization-based analysis dictionary learning with an L1/2-norm regularizer<br>
-  
-  
+   <h1>Competition Award</h1>
+   <p>
+   <ul>
+	<li>Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">[The code of the project]</a>
+		<a href="https://www.bilibili.com/video/av55328647" style="text-decoration:underline;">[Video in bilibili]</a><br></li>
+	<li>Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
+	    <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">[Video in bilibili]</a></li>
+   </ul>
+   </p> 
 
