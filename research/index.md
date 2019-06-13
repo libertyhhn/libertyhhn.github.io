@@ -14,7 +14,7 @@ share: false
    <h1>Project</h1>
    <p>
    <ul>
-	<li>A Laser Beam Profiler System <br>
+	<li> <B>A Laser Beam Profiler System</B> <br>
 		As a project leader in 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[Code for LabVIEW]</a>
