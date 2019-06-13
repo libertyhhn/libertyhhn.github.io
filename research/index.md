@@ -33,7 +33,7 @@ share: false
    <p>
    <ul>
 	<li>
-		A Laser Beam Quality Analysis Instrument.
+		A Laser Beam Quality Analysis Instrument.(激光光束质量分析仪)
 		<br>
 		Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
@@ -44,6 +44,7 @@ share: false
 		</a><br>
 	   </li>
 	<li>Measurement of Flame Flow Field with Double-path Schlieren Structure Using Mobile Phone as Light Source.
+		（用手机做光源的双光程纹影结构对火焰流场的测量）
 		<br>
 		Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
 	        <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">
