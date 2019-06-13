@@ -32,7 +32,10 @@ share: false
    <h1>Competition Award</h1>
    <p>
    <ul>
-	<li>Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
+	<li>
+		A Laser Beam Quality Analysis Instrument.
+		<br>
+		Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[The code of the project]
 		</a>
@@ -40,7 +43,9 @@ share: false
 			[Video in bilibili]
 		</a><br>
 	   </li>
-	<li>Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
+	<li>Measurement of Flame Flow Field with Double-path Schlieren Structure Using Mobile Phone as Light Source.
+		<br>
+		Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
 	        <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">
 			[Video in bilibili]
 		</a>
