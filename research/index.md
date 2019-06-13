@@ -10,7 +10,8 @@ share: false
 
 
 <ol>
-  
+	2018- Research Assistant, Guangdong Key Laboratory of IoT Information Processing, Guangzhou , advised by Prof.Zuyuan Yang.
+   2015-2018 Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.Junwen Xue, Lec.Jialin Tang and Lec.Yulei An.
    <h1>Project</h1>
    <p>
    <ul>
