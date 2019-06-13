@@ -9,8 +9,8 @@
  #{{ site.url }}
   
   
-#- title: Research
-#  url: /research
+- title: Research
+  url: /research
 
 #- title: Teaching
 #  url: /teaching
