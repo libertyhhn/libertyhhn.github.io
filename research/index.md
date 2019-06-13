@@ -15,10 +15,12 @@ share: false
    <p>
    <ul>
 	<li>A Laser Beam Profiler System <br>
-		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">[The code of the project]</a>
-		<a href="https://www.bilibili.com/video/av55328647" style="text-decoration:underline;">[Video in bilibili]</a><br></li>
-	<li>Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
-	    <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">[Video in bilibili]</a></li>
+		As a project leader in 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
+		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
+			[Code for LabVIEW]</a>
+		<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/research/Chinese%20Technical%20Reports%20of%20Laser%20Beam%20Profiler.pdf" style="text-decoration:underline;">
+			[Chinese Technical Reports]
+		</a><br></li>
    </ul>
    </p> 
 
