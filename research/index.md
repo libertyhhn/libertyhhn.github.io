@@ -17,11 +17,18 @@ share: false
 	<a href="http://xinxi.xy.bitzh.edu.cn/shizililiang/qianrenjihua/2018-04-20/3657.html" style="text-decoration:underline;">
 		Junwen Xue</a> , Lec.Jialin Tang and Lec.Yulei An.
 	<br>
+	<br>
    <h1>Project</h1>
    <p>
    <ul>
+	   <li>
+		   <B> Q&A system for epilepsy diagnostic </B> <br>
+		   Project Leader, 2019 Seed Program Project in GDUT
+		   <img src="../images/QA.png">
+	   </li>
 	<li> <B>A Laser Beam Profiler System</B> <br>
-		As a project leader in 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
+		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
+	        <br>	
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[Code for LabVIEW]</a>
 		<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/research/Chinese%20Technical%20Reports%20of%20Laser%20Beam%20Profiler.pdf" style="text-decoration:underline;">
