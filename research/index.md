@@ -23,11 +23,11 @@ share: false
    <ul>
 	   <li>
 		   <B> Q&A system for epilepsy diagnostic </B> <br>
-		   Project Leader, 2019 Seed Program Project in GDUT
+		   Project Leader, 2019 Seed Program Project in GDUT.<br>
 		   <img src="../images/QA.png">
-	   </li>
+	   </li><br>
 	<li> <B>A Laser Beam Profiler System</B> <br>
-		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
+		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship.<br>
 		<img src="../images/laser.png">
 	        <br>	
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
@@ -51,7 +51,7 @@ share: false
 		</a>
 		<a href="https://www.bilibili.com/video/av55328647" style="text-decoration:underline;">
 			[Video in bilibili]
-		</a><br>
+		</a><br><br>
 	   </li>
 	<li>Measurement of Flame Flow Field with Double-path Schlieren Structure Using Mobile Phone as Light Source.
 		（用手机做光源的双光程纹影结构对火焰流场的测量）
