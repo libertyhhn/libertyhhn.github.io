@@ -16,6 +16,7 @@ share: false
    2015-2018 Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.
 	<a href="http://xinxi.xy.bitzh.edu.cn/shizililiang/qianrenjihua/2018-04-20/3657.html" style="text-decoration:underline;">
 		Junwen Xue</a> , Lec.Jialin Tang and Lec.Yulei An.
+	<br>
    <h1>Project</h1>
    <p>
    <ul>
