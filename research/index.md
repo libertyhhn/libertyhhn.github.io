@@ -28,6 +28,7 @@ share: false
 	   </li>
 	<li> <B>A Laser Beam Profiler System</B> <br>
 		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship
+		<img src="../images/laser.png">
 	        <br>	
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[Code for LabVIEW]</a>
@@ -44,6 +45,7 @@ share: false
 		A Laser Beam Quality Analysis Instrument.(激光光束质量分析仪)
 		<br>
 		Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
+		<br>
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[The code of the project]
 		</a>
@@ -55,6 +57,7 @@ share: false
 		（用手机做光源的双光程纹影结构对火焰流场的测量）
 		<br>
 		Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
+		<br>
 	        <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">
 			[Video in bilibili]
 		</a>
