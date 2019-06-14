@@ -10,10 +10,10 @@ share: false
 
 
 <ol>
-	<li>2018- Research Assistant, Guangdong Key Laboratory of IoT Information Processing, Guangzhou , advised by Prof. 
+	<li>2018-Now, Research Assistant, Guangdong Key Laboratory of IoT Information Processing, Guangzhou , advised by Prof. 
 	<a href="http://zuyuanyang.github.io" style="text-decoration:underline;">Zuyuan Yang</a>. 
 	 </li><br><br>
-   <li>2015-2018 Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.
+   <li>2015-2018, Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.
 	<a href="http://xinxi.xy.bitzh.edu.cn/shizililiang/qianrenjihua/2018-04-20/3657.html" style="text-decoration:underline;">
 		Junwen Xue</a> , Lec.Jialin Tang and Lec.Yulei An.
 	</li><br>
