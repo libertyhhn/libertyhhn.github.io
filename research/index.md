@@ -15,7 +15,7 @@ share: false
 	 </li><br><br>
    <li>2015-2018, Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.
 	<a href="http://xinxi.xy.bitzh.edu.cn/shizililiang/qianrenjihua/2018-04-20/3657.html" style="text-decoration:underline;">
-		Junwen Xue</a> , Lec.Jialin Tang and Lec.Yulei An.
+		Junwen Xue</a> and Prof. <a href="https://www.researchgate.net/profile/Hsin_Chuan_Chen" style="text-decoration:underline;"> Hsin-Chuan Chen</a>.
 	</li><br>
 	<br>
    <h1>Project</h1>
