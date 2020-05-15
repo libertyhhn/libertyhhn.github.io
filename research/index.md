@@ -24,7 +24,7 @@ share: false
 	   <li>
 		   <B> Q&A system for epilepsy diagnostic </B> <br>
 		   Project Leader, 2019 Seed Program Project in GDUT.<br>
-		   <img src="../images/QA.png" width="1000" height="1000">
+		   <img src="../images/QA.png">
 	   </li><br>
 	<li> <B>A Laser Beam Profiler System</B> <br>
 		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship.<br>
