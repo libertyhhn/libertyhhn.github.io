@@ -10,14 +10,42 @@ share: false
 
 
 <ol>
-	<li>2018-Now, Research Assistant, Guangdong Key Laboratory of IoT Information Processing, Guangzhou , advised by Prof. 
-	<a href="http://zuyuanyang.github.io" style="text-decoration:underline;">Zuyuan Yang</a>. 
-	 </li><br><br>
-   <li>2015-2018, Research Assistant, Key Laboratory of Photoelectric Imaging Technology and System, Ministry of Education of China, Beijing Institute of Technology, Zhuhai, co-advised by Prof.
-	<a href="http://xinxi.xy.bitzh.edu.cn/shizililiang/qianrenjihua/2018-04-20/3657.html" style="text-decoration:underline;">
-		Junwen Xue</a> and Prof. <a href="https://www.researchgate.net/profile/Hsin_Chuan_Chen" style="text-decoration:underline;"> Hsin-Chuan Chen</a>.
+<h1>Publications</h1>
+<p><ul>
+<li>
+	<B>Deep Graph semi-NMF algorithm and its convergence </B> <br>
+          <img src="../images/DGsnMF.png">
+		        <br>
+			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/20%20Deep%20Graph%20semi-NMF%20algorithm%20and%20its%20convergence.pdf" style="text-decoration:underline;">
+			[Paper is submitted to Neurocomputing]</a>
+		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
+			[Code for Matlab]</a>
+</li><br>
+<li>
+		<B>Semi-NMF network for image classification</B> <br>
+          <img src="../images/SemiNMFnet.png">
+		        <br>
+			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
+			[Paper]</a>
+<!--		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
+			[Code for Matlab]</a>
+-->
 	</li><br>
-	<br>
+	<li>
+		<B>Deep Matrix Factorization with Multi-view Data</B> <br>
+          <img src="../images/DMC.png"><br>
+		<a> [Paper is under review]</a>
+		<a> [Code is coming soon]</a>
+<!--		        <br>
+			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
+			[Paper]</a>
+		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
+			[Code for Matlab]</a>
+-->
+	</li><br>
+<br>
+</ul>
+   </p> 
    <h1>Project</h1>
    <p>
    <ul>
