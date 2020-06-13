@@ -31,7 +31,7 @@ share: false
 -->
 	</li><br>
 	<li>
-	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and S. Xie, "Deep Matrix Factorization with Multi-view Data" （Under review, 2020. <a> [Paper is coming soon]</a>
+	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and S. Xie, "Deep Matrix Factorization with Multi-view Data" （Under review), 2020. <a> [Paper is coming soon]</a>
 		<a> [Code is coming soon]</a><br>		
           <img src="../images/DMC.png"><br>
 <!--		        <br>
