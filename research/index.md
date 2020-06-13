@@ -13,32 +13,27 @@ share: false
 <h1>Publications</h1>
 <p>
 <li>
-	<B>Deep Graph semi-NMF algorithm and its convergence </B> （submitted to Neurocomputing）<br>
-	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun <br>
-          <img src="../images/DGsnMF.png">
-		        <br>
-			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/20%20Deep%20Graph%20semi-NMF%20algorithm%20and%20its%20convergence.pdf" style="text-decoration:underline;">
+	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence", is submitted to Neurocomputing, <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/20%20Deep%20Graph%20semi-NMF%20algorithm%20and%20its%20convergence.pdf" style="text-decoration:underline;">
 			[Paper]</a>
 		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
 			[Code for Matlab]</a>
+          <img src="../images/DGsnMF.png">
+		        <br>
+			
 </li><br>
 <li>
-		<B>Semi-NMF network for image classification</B> <br>
-	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and S. Xie <br>
+	<b>H.</b> <b>Huang</b>, Z. Yang, N. Liang, and Z. Li, "Semi-NMF network for image classification", in 2019 Chinese Control Conference (CCC) <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
+			[Paper]</a>	
           <img src="../images/SemiNMFnet.png">
-		        <br>
-			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
-			[Paper]</a>
+		        <br>			
 <!--		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
 			[Code for Matlab]</a>
 -->
 	</li><br>
 	<li>
-		<B>Deep Matrix Factorization with Multi-view Data</B> （Under review）<br>
-		<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and S. Xie <br>
+	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and S. Xie, "Deep Matrix Factorization with Multi-view Data" （Under review）<br>		<a> [Paper is coming soon]</a>
+		<a> [Code is coming soon]</a>		
           <img src="../images/DMC.png"><br>
-		<a> [Paper is coming soon]</a>
-		<a> [Code is coming soon]</a>
 <!--		        <br>
 			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
 			[Paper]</a>
