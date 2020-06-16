@@ -74,7 +74,7 @@ share: false
 		Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
 		<br>
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
-			[The code of the project]
+			[Code for LabVIEW]
 		</a>
 		<a href="https://www.bilibili.com/video/av55328647" style="text-decoration:underline;">
 			[Video in bilibili]
