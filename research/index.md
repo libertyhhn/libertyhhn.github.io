@@ -23,7 +23,9 @@ share: false
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, N. Liang, and Z. Li, "Semi-NMF network for image classification", in 2019 Chinese Control Conference (CCC). <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
-			[Paper]</a><br>	
+			[Paper]</a>	
+	<a href="https://github.com/libertyhhn/SNnet" style="text-decoration:underline;">
+			[Code for Matlab]</a><br>
           <img src="../images/SemiNMFnet.png">
 		        <br>			
 <!--		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
