@@ -13,9 +13,7 @@ share: false
 <h1>Publications</h1>
 <p>
 <li>
-	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence", is submitted to Circuits, Systems, and Signal Processing, 2020. (under review)  [Paper is comming soon]
-		
-			[Code is comming soon]<br>
+	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence", is submitted to Circuits, Systems, and Signal Processing, 2020. (under review)  [Paper is comming soon]		[Code is comming soon]<br>
           <img src="../images/DGsnMF.png">
 		        <br>
 			
