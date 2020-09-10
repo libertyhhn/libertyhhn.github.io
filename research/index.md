@@ -42,7 +42,7 @@ share: false
 -->
 	</li><br>
 	<li>
-	<b>  W. Han, S. Xie, Z. Yang, S. Zhou and H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", Physiological measurement , 40(10), 105003, 2019.  <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta" style="text-decoration:underline;">[Paper]</a>
+	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", <i>Physiological measurement</i>, 40(10), 105003, 2019.  <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta" style="text-decoration:underline;">[Paper]</a>
 		<a href="https://github.com/libertyhhn/SNMFNet" style="text-decoration:underline;">[Code for Python]</a>
 	</li><br>
 <br>
