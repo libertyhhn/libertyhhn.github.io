@@ -14,7 +14,7 @@ share: false
 <p>
 <li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence", is submitted to Circuits, Systems, and Signal Processing, 2020. (under review)  [Paper is comming soon]		[Code is comming soon]<br>
-	(Besides, I released a <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.)
+	(Besides, I have released a <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.)
           <img src="../images/DGsnMF.png">
 		        <br>
 			
@@ -40,6 +40,10 @@ share: false
 		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
 			[Code for Matlab]</a>
 -->
+	</li><br>
+	<li>
+	<b>  W. Han, S. Xie, Z. Yang, S. Zhou and H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", Physiological measurement , 40(10), 105003, 2019.  <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta" style="text-decoration:underline;">[Paper]</a>
+		<a href="https://github.com/libertyhhn/SNMFNet" style="text-decoration:underline;">[Code for Python]</a>
 	</li><br>
 <br>
    </p> 
