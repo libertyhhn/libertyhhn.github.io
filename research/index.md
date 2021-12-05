@@ -32,7 +32,8 @@ share: false
 -->
 	</li><br>
 	<li>
-	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a> [Paper is coming soon]</a>
+	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">
+			[Paper]</a>	
 		<a href="https://github.com/libertyhhn/PartiallySharedDMF" style="text-decoration:underline;"> [Code for Matlab]</a><br>		
           <img src="../images/DMC.png"><br>
 <!--		        <br>
@@ -55,16 +56,23 @@ share: false
 		   <B> Q&A system for epilepsy diagnostic </B> <br>
 		   Project Leader, 2019 Seed Program Project in GDUT.<br>
 		   <img src="../images/QA.png">
+		   <br>
+		   <a href="https://link.springer.com/article/10.1007/s10489-021-02212-w" style="text-decoration:underline;">
+			[Paper]
+		</a>
+		<a href="https://github.com/chenxichen95/MCFN" style="text-decoration:underline;">
+			[Code for Python]</a>
 	   </li><br>
 	<li> <B>A Laser Beam Profiler System</B> <br>
 		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship.<br>
 		<img src="../images/laser.png">
 	        <br>	
+<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/research/Chinese%20Technical%20Reports%20of%20Laser%20Beam%20Profiler.pdf" style="text-decoration:underline;">
+			[Chinese Technical Reports]
+		</a>
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[Code for LabVIEW]</a>
-		<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/research/Chinese%20Technical%20Reports%20of%20Laser%20Beam%20Profiler.pdf" style="text-decoration:underline;">
-			[Chinese Technical Reports]
-		</a><br></li>
+<br></li>
    </ul>
    </p> 
 
