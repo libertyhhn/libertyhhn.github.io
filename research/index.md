@@ -15,9 +15,6 @@ share: false
 	<li>
 	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing, 2022.     [Paper is comming soon]			
 	[Code is comming soon]<br>
-	
-		        <br>
-			
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021.           <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3" style="text-decoration:underline;">[Paper]</a>			
