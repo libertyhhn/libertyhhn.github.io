@@ -13,7 +13,7 @@ share: false
 <h1>Publications</h1>
 <p>
 	<li>
-	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing, 2022.     [Paper is comming soon]			
+	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.     [Paper is comming soon]			
 	[Code is comming soon]<br>
 </li><br>
 <li>
