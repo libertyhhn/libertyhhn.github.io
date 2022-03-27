@@ -35,7 +35,7 @@ owner:
   facebook: #username
   google: 
     plus: 
-    scholar: #username
+    scholar: Haonan Huang
     analytics:
     verify:
     ad-client:
@@ -57,6 +57,7 @@ owner:
   weibo: #
   flickr: #username
   codepen: #username
+  researchgate: Haonan Huang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
