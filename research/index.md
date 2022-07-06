@@ -12,6 +12,11 @@ share: false
 <ol>
 <h1>Publications</h1>
 <p>
+<li>
+	<b>H.</b> <b>Huang</b>, G. Zhou, N. Liang, Q. Zhao and S. Xie, "Diverse Deep Matrix Factorization with Hypergraph Regularization for Multi-view Data Representation",  IEEE/CAA Journal of Automatica Sinica (IEEE JAS), 2022.     
+		[Paper is comming soon]		
+	[Code is comming soon]<br>
+</li><br>
 	<li>
 	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.     
 		<a href="https://ieeexplore.ieee.org/abstract/document/9747857" style="text-decoration:underline;">[Paper]</a>		
