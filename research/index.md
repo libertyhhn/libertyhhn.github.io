@@ -24,8 +24,7 @@ share: false
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021.           <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3" style="text-decoration:underline;">[Paper]</a>			
-	[Code is comming soon]<br>
-	(Besides, I have released a <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.)
+    <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.
           <img src="../images/DGsnMF.png">
 		        <br>
 			
