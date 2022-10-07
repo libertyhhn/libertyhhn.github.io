@@ -19,6 +19,12 @@ share: false
 			[Code for Matlab]</a><br>
 </li><br>
 	<li>
+	Y. Yu, G. Zhou, <b>H.</b> <b>Huang</b>, S. Xie and Q. Zhao, "A semi-supervised label-driven auto-weighted strategy for multi-view data classification",  Knowledge-Based Systems (KBS), 2022.     
+		<a href="https://www.sciencedirect.com/science/article/pii/S0950705122008577?ref=cra_js_challenge&fr=RR-1" style="text-decoration:underline;">[Paper]</a>		
+	<a href="https://github.com/isYuyuanYu/Label-driven-auto-weighted-constrained-K-means" style="text-decoration:underline;">
+			[Code for Matlab]</a><br>
+</li><br>
+	<li>
 	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.     
 		<a href="https://ieeexplore.ieee.org/abstract/document/9747857" style="text-decoration:underline;">[Paper]</a>		
 	[Code is comming soon]<br>
