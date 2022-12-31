@@ -61,11 +61,14 @@ share: false
 <br>
    </p> 
 	<h1>Services</h1>
-<p>
+ <ul>
+	<p>
 <li> 
 	Reviewer for IEEE T-NNLS
+	</li>
 	 </p> 
 	<p>
+		<li> 
 	Reviewer for ICML 2022
 	Internation Volunteer for WINE 2020
 	</li><br>
