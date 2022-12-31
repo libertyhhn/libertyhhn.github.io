@@ -69,12 +69,12 @@ share: false
 	 </p> 
 	<p>
 		<li> 
-	Reviewer for ICML 2022
+	Reviewer for ICML 2022 (CCF-A conference)
 				</li>
 	 </p> 
 	<p>
 		<li> 
-	Internation Volunteer for WINE 2020
+	International Volunteer for WINE 2020 (CCF-A conference)
 	</li><br>
 	 </p> 
    <h1>Project</h1>
