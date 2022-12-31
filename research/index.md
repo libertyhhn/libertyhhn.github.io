@@ -33,15 +33,13 @@ share: false
 	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021.           <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3" style="text-decoration:underline;">[Paper]</a>			
     <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.
           <img src="../images/DGsnMF.png">
-		        <br>
-			
+		        <br>			
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, N. Liang, and Z. Li, "Semi-NMF network for image classification", in 2019 Chinese Control Conference (CCC). <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
 			[Paper]</a>	
 	<a href="https://github.com/libertyhhn/SNnet" style="text-decoration:underline;">
-			[Code for Matlab]</a><br>
-       			
+			[Code for Matlab]</a><br>		
 <!--		<a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">
 			[Code for Matlab]</a>
 -->
@@ -50,7 +48,6 @@ share: false
 	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">
 			[Paper]</a>	
 		<a href="https://github.com/libertyhhn/PartiallySharedDMF" style="text-decoration:underline;"> [Code for Matlab]</a><br>		
-          
 <!--		        <br>
 			<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
 			[Paper]</a>
