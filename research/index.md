@@ -36,8 +36,7 @@ share: false
 		        <br>			
 </li><br>
 	<li>
-	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">
-			[Paper]</a>	
+	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">[Paper]</a>	
 		<a href="https://github.com/libertyhhn/PartiallySharedDMF" style="text-decoration:underline;"> [Code for Matlab]</a><br>		
 	</li><br>
 
