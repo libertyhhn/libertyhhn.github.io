@@ -39,14 +39,13 @@ share: false
 	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data" ,20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">
 			[Paper]</a>	
 		<a href="https://github.com/libertyhhn/PartiallySharedDMF" style="text-decoration:underline;"> [Code for Matlab]</a><br>		
-
 	</li><br>
-<li>
+
+	<li>
 	<b>H.</b> <b>Huang</b>, Z. Yang, N. Liang, and Z. Li, "Semi-NMF network for image classification", in 2019 Chinese Control Conference (CCC). <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
 			[Paper]</a>	
 	<a href="https://github.com/libertyhhn/SNnet" style="text-decoration:underline;">
 			[Code for Matlab]</a><br>		
-
 	</li><br>
 	
 
