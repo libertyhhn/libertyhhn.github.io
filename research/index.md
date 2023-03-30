@@ -57,18 +57,23 @@ share: false
 	<h1>Services</h1>
  <ul>
 	<p>
+<li>  
+	Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+	</li>
+	 </p> 
+	<p>
 <li> 
-	Reviewer for IEEE T-NNLS
+	Reviewer for Neural Network (NN)
 	</li>
 	 </p> 
 	<p>
 		<li> 
-	Reviewer for ICML 2022 (CCF-A conference)
+	Reviewer for International Conference on Machine Learning (ICML) 2022 (CCF-A conference)
 				</li>
 	 </p> 
 	<p>
 		<li> 
-	International Volunteer for WINE 2020 (CCF-A conference)
+	International Volunteer for The Conference on Web and Internet Economics (WINE) 2020 (CCF-A conference)
 	</li><br>
 	 </p> 
 	 </ul>
