@@ -19,7 +19,7 @@ share: false
 			[Code for Matlab]</a><br>
 </li><br>
 	<li>
-	Y. Yu, G. Zhou, <b>H.</b> <b>Huang</b>, S. Xie and Q. Zhao, "A semi-supervised label-driven auto-weighted strategy for multi-view data classification",  Knowledge-Based Systems (KBS), 2022.     
+	Y. Yu, G. Zhou, <b>H.</b> <b>Huang</b>, S. Xie and Q. Zhao, "A semi-supervised label-driven auto-weighted strategy for multi-view data classification",  Knowledge-Based Systems (KBS), 2022. （中科院一区）    
 		<a href="https://www.sciencedirect.com/science/article/pii/S0950705122008577?ref=cra_js_challenge&fr=RR-1" style="text-decoration:underline;">[Paper]</a>		
 	<a href="https://github.com/isYuyuanYu/Label-driven-auto-weighted-constrained-K-means" style="text-decoration:underline;">
 			[Code for Matlab]</a><br>
@@ -31,7 +31,7 @@ share: false
 </li><br>
 	
 <li>
-	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021.           <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3" style="text-decoration:underline;">[Paper]</a>			
+	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021. （中科院三区）          <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3  " style="text-decoration:underline;">[Paper]</a>			
     <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.
 		        <br>			
 </li><br>
@@ -58,7 +58,7 @@ share: false
  <ul>
 	<p>
 <li>  
-	Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+	Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) （中科院一区）
 	</li>
 	 </p> 
 	<p>
