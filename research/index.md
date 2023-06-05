@@ -13,6 +13,11 @@ share: false
 <h1>Publications</h1>
 <p>
 <li>
+	J. Yu, <b>H.</b> <b>Huang</b>, Q. Duan, Y. Wang and T. Zou, "Incomplete Multiview Clustering via Low-Rank Tensor Ring Completion",  International Journal of Intelligent Systems (IJIS), 2023. （中科院一区）    
+		<a href="https://www.hindawi.com/journals/ijis/2023/7217818/" style="text-decoration:underline;">[Paper]</a>		
+	<br>
+</li><br>
+<li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, N. Liang, Q. Zhao and S. Xie, "Diverse Deep Matrix Factorization with Hypergraph Regularization for Multi-view Data Representation",  IEEE/CAA Journal of Automatica Sinica (IEEE JAS), 2022. （中科院一区）    
 		<a href="https://ieeexplore.ieee.org/document/9910368/authors#authors" style="text-decoration:underline;">[Paper]</a>		
 	<a href="https://github.com/libertyhhn/DiverseDMF" style="text-decoration:underline;">
