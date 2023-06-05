@@ -68,7 +68,7 @@ share: false
 	 </p> 
 	<p>
 <li> 
-	Reviewer for Neural Network (NN)
+	Reviewer for Neural Network (NN)（中科院一区）
 	</li>
 	 </p> 
 	<p>
