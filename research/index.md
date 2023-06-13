@@ -54,7 +54,7 @@ share: false
 	</li><br>
 	
 <li>
-	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", <i>Physiological measurement</i>, 40(10), 105003, 2019.  <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta" style="text-decoration:underline;">[Paper]</a>
+	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", <i>Physiological measurement</i>, 40(10), 105003, 2019. （中科院三区） <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta  " style="text-decoration:underline;">[Paper]</a>
 		<a href="https://github.com/libertyhhn/SNMFNet" style="text-decoration:underline;">[Code for Python]</a>
 	</li><br>
 <br>
@@ -115,7 +115,7 @@ share: false
 	<li>
 		A Laser Beam Quality Analysis Instrument.(激光光束质量分析仪)
 		<br>
-		Second Prize in Guangdong 14^th Challenge Cup under the guidance of Prof. Junwen Xue.
+		Second Prize in Guangdong 14^th Challenge Cup （广东省第十四届挑战杯二等奖）under the guidance of Prof. Junwen Xue.
 		<br>
 		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
 			[Code for LabVIEW]
@@ -127,7 +127,7 @@ share: false
 	<li>Measurement of Flame Flow Field with Double-path Schlieren Structure Using Mobile Phone as Light Source.
 		（用手机做光源的双光程纹影结构对火焰流场的测量）
 		<br>
-		Second Prize in Guangdong 18^th College Physics Experiment Design Competition under the guidance of Prof. Junwen Xue.
+		Second Prize in Guangdong 18^th College Physics Experiment Design Competition （广东省第十八届大学生物理实验竞赛二等奖） under the guidance of Prof. Junwen Xue.
 		<br>
 	        <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">
 			[Video in bilibili]
