@@ -10,7 +10,7 @@ share: false
 
 
 <ol>
-<h1>Publications</h1>
+<h1>Selected Publications</h1>
 <p>
 <li>
 	J. Yu, <b>H.</b> <b>Huang</b>, Q. Duan, Y. Wang and T. Zou, "Incomplete Multiview Clustering via Low-Rank Tensor Ring Completion",  International Journal of Intelligent Systems (IJIS), 2023. （中科院一区）    
