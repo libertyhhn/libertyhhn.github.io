@@ -37,7 +37,7 @@ share: false
 	<li>
 	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.     
 		<a href="https://ieeexplore.ieee.org/abstract/document/9747857" style="text-decoration:underline;">[Paper]</a>		
-	[Code is comming soon]<br>
+	<a href="https://github.com/libertyhhn/DANMF-MRL" style="text-decoration:underline;">[Code for Matlab]</a><br>
 </li><br>
 	
 <li>
