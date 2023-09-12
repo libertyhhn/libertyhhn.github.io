@@ -13,8 +13,9 @@ share: false
 <h1>Selected Publications</h1>
 <p>
 <li>
-	<b>H.</b> <b>Huang</b>, G. Zhou, Q. Zhao, L. He and S. Xie, "Comprehensive Multi-view Representation Learning via Deep Autoencoder-like Nonnegative Matrix Factorization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. （中科院一区）<a href="https://github.com/libertyhhn/DANMF-MRL" style="text-decoration:underline;">[Code for Matlab]</a> <a href="[https://github.com/libertyhhn/DANMF-MRL](https://ieeexplore.ieee.org/abstract/document/10241999)" style="text-decoration:underline;">[Paper]</a> (Expanded version of our ICASSP)    
-				
+	<b>H.</b> <b>Huang</b>, G. Zhou, Q. Zhao, L. He and S. Xie, "Comprehensive Multi-view Representation Learning via Deep Autoencoder-like Nonnegative Matrix Factorization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. （中科院一区）<a href="[https://github.com/libertyhhn/DANMF-MRL](https://ieeexplore.ieee.org/abstract/document/10241999)" style="text-decoration:underline;">[Paper]</a> 
+	<a href="https://github.com/libertyhhn/DANMF-MRL" style="text-decoration:underline;">[Code for Matlab]</a> 
+	 (Expanded version of our ICASSP)    				
 	<br>
 </li><br>
 <li>
