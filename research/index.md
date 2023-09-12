@@ -16,7 +16,7 @@ share: false
 	<b>H.</b> <b>Huang</b>, G. Zhou, Q. Zhao, L. He and S. Xie, "Comprehensive Multi-view Representation Learning via Deep Autoencoder-like Nonnegative Matrix Factorization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. （中科院一区）
 	<a href="https://ieeexplore.ieee.org/abstract/document/10241999" style="text-decoration:underline;">[Paper]</a> 
 	<a href="https://github.com/libertyhhn/DANMF-MRL" style="text-decoration:underline;">[Code for Matlab]</a> 
-	 (Expanded version of our ICASSP)    				
+	 (Expanded version of our ICASSP'22)    				
 </li><br>
 <li>
 	J. Yu, <b>H.</b> <b>Huang</b>, Q. Duan, Y. Wang and T. Zou, "Incomplete Multiview Clustering via Low-Rank Tensor Ring Completion",  International Journal of Intelligent Systems (IJIS), 2023. （中科院一区）    
