@@ -78,7 +78,7 @@ share: false
 	 </p> 
 	<p>
 <li>  
-	Reviewer for IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCS) （中科院一区）
+	Reviewer for IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCA) （中科院一区）
 	</li>
 	 </p> 
 	<p>
@@ -89,6 +89,11 @@ share: false
 	<p>
 <li> 
 	Reviewer for Neural Network (NN)（中科院一区）
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for Multimedia Tools and Applications (MTAP）
 	</li>
 	 </p> 
 	<p>
