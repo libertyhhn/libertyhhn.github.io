@@ -134,9 +134,14 @@ share: false
    </ul>
    </p> 
 
-   <h1>Competition Award</h1>
+   <h1>Awards</h1>
    <p>
    <ul>
+	<li>
+		Doctoral National Scholarship (博士研究生国家奖学金)
+		<br>
+                <br><br>
+	   </li>
 	<li>
 		A Laser Beam Quality Analysis Instrument.(激光光束质量分析仪)
 		<br>
