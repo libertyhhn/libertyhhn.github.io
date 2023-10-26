@@ -138,8 +138,7 @@ share: false
    <p>
    <ul>
 	<li>
-		Doctoral National Scholarship (博士研究生国家奖学金)
-		<br>
+		2023 Doctoral National Scholarship (博士研究生国家奖学金)
                 <br><br>
 	   </li>
 	<li>
