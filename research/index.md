@@ -98,6 +98,16 @@ share: false
 	 </p> 
 	<p>
 		<li> 
+	Reviewer for IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024 (CCF-A conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
+	Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024 (CCF-B conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
 	Reviewer for International Conference on Machine Learning (ICML) 2022 (CCF-A conference)
 				</li>
 	 </p> 
@@ -138,7 +148,7 @@ share: false
    <p>
    <ul>
 	<li>
-		2023 Doctoral National Scholarship (博士研究生国家奖学金)
+		Doctoral National Scholarship 2023 (博士研究生国家奖学金)
                 <br><br>
 	   </li>
 	<li>
