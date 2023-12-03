@@ -14,7 +14,8 @@ share: false
 <p>
 <li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Z. Yang and Q. Zhao, "Exclusivity and Consistency induced NMF for Multi-view Representation Learning", Knowledge-Based Systems (KBS), 2023. （中科院一区）
-	<a href="https://www.sciencedirect.com/science/article/pii/S0950705123007700" style="text-decoration:underline;">[Paper]</a> [Code is coming soon]   				
+	<a href="https://www.sciencedirect.com/science/article/pii/S0950705123007700" style="text-decoration:underline;">[Paper]</a> 
+	<a href="https://github.com/libertyhhn/ECNMF" style="text-decoration:underline;">[Code for Matlab]</a>  			
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, Q. Zhao, L. He and S. Xie, "Comprehensive Multi-view Representation Learning via Deep Autoencoder-like Nonnegative Matrix Factorization", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. （中科院一区）
