@@ -65,7 +65,7 @@ share: false
 	</li><br>
 	
 <li>
-	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", <i>Physiological measurement</i>, 40(10), 105003, 2019. （中科院三区） <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta  " style="text-decoration:underline;">[Paper]</a>
+	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", Physiological measurement, 40(10), 105003, 2019. （中科院三区） <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta  " style="text-decoration:underline;">[Paper]</a>
 		<a href="https://github.com/libertyhhn/SNMFNet" style="text-decoration:underline;">[Code for Python]</a>
 	</li><br>
 <br>
@@ -149,7 +149,15 @@ share: false
    <p>
    <ul>
 	<li>
-		Doctoral National Scholarship 2023 (博士研究生国家奖学金)
+		Doctoral National Scholarship, 2023 (博士研究生国家奖学金)
+                <br><br>
+	   </li>
+	<li>
+		Outstanding graduates of School of Automation, Guangdong University of Technology, 2021  
+                <br><br>
+	   </li>
+	<li>
+		Outstanding graduates of Beijing Institute of Technology, Zhuhai, 2018 
                 <br><br>
 	   </li>
 	<li>
