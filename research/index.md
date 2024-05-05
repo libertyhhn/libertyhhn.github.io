@@ -13,6 +13,11 @@ share: false
 <h1>Selected Publications</h1>
 <p>
 <li>
+	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Y. Qiu, A. Wang, and Q. Zhao, "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework", International Conference on Machine Learning (ICML), 2024. （CCF-A, Top AI Conference）
+	[Paper is coming soon]
+	[Code for Python is coming soon] 			
+</li><br>
+<li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Z. Yang and Q. Zhao, "Exclusivity and Consistency induced NMF for Multi-view Representation Learning", Knowledge-Based Systems (KBS), 2023. （中科院一区）
 	<a href="https://www.sciencedirect.com/science/article/pii/S0950705123007700" style="text-decoration:underline;">[Paper]</a> 
 	<a href="https://github.com/libertyhhn/ECNMF" style="text-decoration:underline;">[Code for Matlab]</a>  			
