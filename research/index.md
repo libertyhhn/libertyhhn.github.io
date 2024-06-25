@@ -14,7 +14,7 @@ share: false
 <p>
 <li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Y. Qiu, A. Wang, and Q. Zhao, "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework", International Conference on Machine Learning (ICML), 2024. （CCF-A, Top AI Conference）
-	[Paper is coming soon]
+	<a href="https://openreview.net/forum?id=D9EfAkQCzh" style="text-decoration:underline;">[Paper]</a>
 	[Code for Python is coming soon] 			
 </li><br>
 <li>
