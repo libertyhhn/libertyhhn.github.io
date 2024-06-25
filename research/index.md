@@ -104,7 +104,17 @@ share: false
 	 </p> 
 	 <p>
 <li> 
-	Reviewer for Multimedia Tools and Applications (MTAP）
+	Reviewer for Knowledge-Based Systems (KBS)（中科院一区）
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for The Journal of Supercomputing（中科院三区）
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for Multimedia Tools and Applications (MTAP）（中科院四区）
 	</li>
 	 </p> 
 	<p>
