@@ -13,7 +13,7 @@ share: false
 <h1>Selected Publications</h1>
 <p>
 <li>
-	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Y. Qiu, A. Wang, and Q. Zhao, "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework", International Conference on Machine Learning (ICML), 2024. （CCF-A, Top AI Conference）
+	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Y. Qiu, A. Wang and Q. Zhao, "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework", International Conference on Machine Learning (ICML), 2024. （CCF-A, Top AI Conference）
 	<a href="https://openreview.net/forum?id=D9EfAkQCzh" style="text-decoration:underline;">[Paper]</a>
 	<a href="https://github.com/libertyhhn/AR-DMVC" style="text-decoration:underline;">[Code for Python]</a>  			
 </li><br>
@@ -115,6 +115,11 @@ share: false
 	 <p>
 <li> 
 	Reviewer for Multimedia Tools and Applications (MTAP）（中科院四区）
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for Neural Processing Letters (NPL）（中科院四区）
 	</li>
 	 </p> 
 	<p>
