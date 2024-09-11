@@ -153,6 +153,14 @@ share: false
 	</li><br>
 	 </p> 
 	 </ul>
+<h1>Talks</h1>
+   <p>
+   <ul>
+	<li>
+		[2024.09.10] <a href="https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/177302" style="text-decoration:underline;"> Tensor Learning Team Seminar</a>   (online), RIKEN AIP
+	</li>
+   </p> 
+   </ul>
    <h1>Project</h1>
    <p>
    <ul>
