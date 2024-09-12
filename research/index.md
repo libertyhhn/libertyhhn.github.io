@@ -112,6 +112,11 @@ share: false
 	Reviewer for The Journal of Supercomputing（中科院三区）
 	</li>
 	 </p> 
+<p>
+	<li> 
+		Reviewer for International Journal of Machine Learning and Cybernetics（中科院三区）
+	</li>
+</p> 
 	 <p>
 <li> 
 	Reviewer for Multimedia Tools and Applications (MTAP）（中科院四区）
