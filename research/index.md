@@ -114,7 +114,7 @@ share: false
 	 </p> 
 <p>
 	<li> 
-		Reviewer for International Journal of Machine Learning and Cybernetics（中科院三区）
+		Reviewer for International Journal of Machine Learning and Cybernetics (IJMLC)（中科院三区）
 	</li>
 </p> 
 	 <p>
