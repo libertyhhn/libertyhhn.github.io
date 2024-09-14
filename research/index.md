@@ -166,8 +166,7 @@ share: false
 	</li>
 	<li>
 		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Techonology
-	</li>
-   </p> 
+	</li> 
    </ul>
    <h1>Project</h1>
    <p>
