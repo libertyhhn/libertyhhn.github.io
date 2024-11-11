@@ -15,7 +15,7 @@ share: false
 <li>
 	Y. Zheng, G. Zhou, <b>H.</b> <b>Huang</b>, X. Luo, Z. Huang and Q. Zhao, "Unifying Complete and Incomplete Multi-View Clustering through An Information-Theoretic Generative Model", Neural Networks, 2024. （中科院一区）
 	<!-- <a href="https://openreview.net/forum?id=D9EfAkQCzh" style="text-decoration:underline;">[Paper]</a> -->
-	<!-- <a href="https://github.com/libertyhhn/AR-DMVC" style="text-decoration:underline;">[Code for Python]</a>  			 -->
+	<a href="https://github.com/YanghangZheng-GDUT/LOGIC.git" style="text-decoration:underline;">[Code for Python]</a>  			
 </li><br>
 <li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, Y. Zheng, Y. Qiu, A. Wang and Q. Zhao, "Adversarially Robust Deep Multi-View Clustering: A Novel Attack and Defense Framework", International Conference on Machine Learning (ICML), 2024. （CCF-A, Top AI Conference）
