@@ -82,6 +82,7 @@ share: false
   </p> 
 	<h1>Services</h1>
  <ul>
+ <h2>Journals</h2>
 	<p>
 <li>  
 	Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS) （中科院一区）
@@ -132,6 +133,7 @@ share: false
 	Reviewer for Neural Processing Letters (NPL）（中科院四区）
 	</li>
 	 </p> 
+	 <h2>Conferences</h2>
 	<p>
 		<li> 
 	Reviewer for International Conference on Machine Learning (ICML) 2022, 2025 (CCF-A conference)
@@ -176,7 +178,7 @@ share: false
 	</li>
 	<li>
 		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Techonology
-	</li> 
+	</li><br>
    </ul>
    <h1>Project</h1>
    <p>
