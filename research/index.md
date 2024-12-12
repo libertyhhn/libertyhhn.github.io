@@ -149,7 +149,7 @@ share: false
 	 </p> 
 	<p>
 		<li> 
-	Reviewer for International Conference on Machine Learning (ICML) 2022 (CCF-A conference)
+	Reviewer for International Conference on Machine Learning (ICML) 2022, 2025 (CCF-A conference)
 				</li>
 	 </p> 
 	 <p>
