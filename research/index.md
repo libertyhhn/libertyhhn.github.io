@@ -82,6 +82,42 @@ share: false
   </p> 
 	<h1>Services</h1>
  <ul>
+	 <h2>Conferences</h2>
+	<p>
+		<li> 
+	Reviewer for International Conference on Machine Learning (ICML) 2022, 2025 (CCF-A conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
+	Reviewer for International Conference on Learning Representations (ICLR) 2025 (Top AI Conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
+	Reviewer for IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024 (CCF-A conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
+	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 (CCF-A conference)
+				</li>
+	 </p> 
+	 <p>
+		<li> 
+	Reviewer for Asian Conference on Machine Learning (ACML) 2023, 2024 (CCF-C conference)
+				</li>
+	 </p> 
+	 <p>
+		<li> 
+	Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024 (CCF-B conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
+	International Volunteer for The Conference on Web and Internet Economics (WINE) 2020 (CCF-A conference)
+	</li><br>
+	 </p> 
  <h2>Journals</h2>
 	<p>
 <li>  
@@ -132,42 +168,6 @@ share: false
 <li> 
 	Reviewer for Neural Processing Letters (NPL）（中科院四区）
 	</li>
-	 </p> 
-	 <h2>Conferences</h2>
-	<p>
-		<li> 
-	Reviewer for International Conference on Machine Learning (ICML) 2022, 2025 (CCF-A conference)
-				</li>
-	 </p> 
-	<p>
-		<li> 
-	Reviewer for International Conference on Learning Representations (ICLR) 2025 (Top AI Conference)
-				</li>
-	 </p> 
-	<p>
-		<li> 
-	Reviewer for IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024 (CCF-A conference)
-				</li>
-	 </p> 
-	<p>
-		<li> 
-	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 (CCF-A conference)
-				</li>
-	 </p> 
-	 <p>
-		<li> 
-	Reviewer for Asian Conference on Machine Learning (ACML) 2023, 2024 (CCF-C conference)
-				</li>
-	 </p> 
-	 <p>
-		<li> 
-	Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024 (CCF-B conference)
-				</li>
-	 </p> 
-	<p>
-		<li> 
-	International Volunteer for The Conference on Web and Internet Economics (WINE) 2020 (CCF-A conference)
-	</li><br>
 	 </p> 
 	 </ul>
 <h1>Talks</h1>
