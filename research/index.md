@@ -34,7 +34,7 @@ share: false
 	 (Expanded version of our ICASSP'22)    				
 </li><br>
 <li>
-	J. Yu, <b>H.</b> <b>Huang</b>, Q. Duan, Y. Wang and T. Zou, "Incomplete Multiview Clustering via Low-Rank Tensor Ring Completion",  International Journal of Intelligent Systems (IJIS), 2023. （中科院一区）    
+	J. Yu, <b>H.</b> <b>Huang</b>, Q. Duan, Y. Wang and T. Zou, "Incomplete Multiview Clustering via Low-Rank Tensor Ring Completion",  International Journal of Intelligent Systems (IJIS), 2023. （中科院二区）    
 		<a href="https://www.hindawi.com/journals/ijis/2023/7217818/" style="text-decoration:underline;">[Paper]</a>		
 	<br>
 </li><br>
@@ -160,13 +160,13 @@ share: false
 	</li>
 </p> 
 	 <p>
-<li> 
-	Reviewer for Multimedia Tools and Applications (MTAP）（中科院四区）
-	</li>
+		<li> 
+			Reviewer for Neural Processing Letters (NPL）（中科院四区）
+		</li>
 	 </p> 
 	 <p>
 <li> 
-	Reviewer for Neural Processing Letters (NPL）（中科院四区）
+	Reviewer for Multimedia Tools and Applications (MTAP） 
 	</li>
 	 </p> 
 	 </ul>
