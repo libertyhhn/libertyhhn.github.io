@@ -100,6 +100,11 @@ share: false
 	 </p> 
 	<p>
 		<li> 
+	Program Committee for International Joint Conference on Artificial Intelligence (IJCAI) 2025 (CCF-A conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
 	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 (CCF-A conference)
 				</li>
 	 </p> 
