@@ -95,6 +95,11 @@ share: false
 	 </p> 
 	<p>
 		<li> 
+	Area Chairs for ICLR 2025 Workshop DeLTa 
+				</li>
+	 </p>  
+	<p>
+		<li> 
 	Reviewer for IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024 (CCF-A conference)
 				</li>
 	 </p> 
