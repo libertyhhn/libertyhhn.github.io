@@ -13,6 +13,12 @@ share: false
 <h1>Selected Publications</h1>
 <p>
 <li>
+	Y. Qiu, A. Wang, C. Li, <b>H.</b> <b>Huang</b>, G. Zhou and Q. Zhao, "STEPS: Sequential Probability Tensor Estimation for Text-to-Image Hard Prompt Search", IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025. （中科院一区）
+	<!-- <a href="https://www.sciencedirect.com/science/article/pii/S089360802400830X" style="text-decoration:underline;">[Paper]</a> -->
+	<!-- <a href="https://github.com/YanghangZheng-GDUT/LOGIC.git" style="text-decoration:underline;">[Code for Python]</a>  			 -->
+	[Paper is comming soon]
+</li><br>
+<li>
 	Y. Zheng, G. Zhou, <b>H.</b> <b>Huang</b>, X. Luo, Z. Huang and Q. Zhao, "Unifying Complete and Incomplete Multi-View Clustering through An Information-Theoretic Generative Model", Neural Networks, 2024. （中科院一区）
 	<a href="https://www.sciencedirect.com/science/article/pii/S089360802400830X" style="text-decoration:underline;">[Paper]</a>
 	<a href="https://github.com/YanghangZheng-GDUT/LOGIC.git" style="text-decoration:underline;">[Code for Python]</a>  			
