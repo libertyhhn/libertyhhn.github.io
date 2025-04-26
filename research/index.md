@@ -119,6 +119,11 @@ share: false
 	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 (CCF-A conference)
 				</li>
 	 </p> 
+	<p>
+		<li> 
+	Program Committee for European Conference on Artificial Intelligence (ECAI) 2025 (CCF-B conference)
+				</li>
+	 </p> 
 	 <p>
 		<li> 
 	Reviewer for Asian Conference on Machine Learning (ACML) 2024, 2023 (CCF-C conference)
@@ -177,12 +182,12 @@ share: false
 </p> 
 	 <p>
 		<li> 
-			Reviewer for Neural Processing Letters (NPL）（中科院四区）
+			Reviewer for Neural Processing Letters (NPL)（中科院四区）
 		</li>
 	 </p> 
 	 <p>
 <li> 
-	Reviewer for Multimedia Tools and Applications (MTAP） 
+	Reviewer for Multimedia Tools and Applications (MTAP) 
 	</li>
 	 </p> 
 	 </ul>
