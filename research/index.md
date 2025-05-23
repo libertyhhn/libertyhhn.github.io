@@ -91,6 +91,11 @@ share: false
 	 <h2>Conferences</h2>
 	<p>
 		<li> 
+	Reviewer for Annual Conference on Neural Information Processing Systems (NeurIPS) 2025 (CCF-A conference)
+				</li>
+	 </p> 
+	<p>
+		<li> 
 	Reviewer for International Conference on Machine Learning (ICML) 2025, 2022 (CCF-A conference)
 				</li>
 	 </p> 
