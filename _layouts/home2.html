@@ -91,7 +91,7 @@
         <br>
 <p>
   <ul>	
-    <li>Last Updated: <script>document.write(new Date().toLocaleDateString())</script></li>
+    <li>Last Updated: {{ site.time | date: "%Y/%m/%d" }}</li>
   </ul>
 </p>  
 </div><!-- /#main --> 	
