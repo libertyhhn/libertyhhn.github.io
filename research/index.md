@@ -120,7 +120,7 @@ share: false
 	 </p> 
 	<p>
 		<li> 
-	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 
+	Program Committee for Annual AAAI Conference on Artificial Intelligence (AAAI) 2026, 2025 
 				</li>
 	 </p> 
 	<p>
