@@ -12,7 +12,7 @@ share: false
 <ol>
 <h1>Selected Publications</h1>
 <p>
-Summary of my publications (by July, 2025): I have published 17 papers including 11 peer-reviewed journal papers (7 SCI JCR-Q1 papers), 6 peer-reviewed conference papers (including 2 toptier AI conference papers: 1 ICML and 1 CVPR. These papers have received over 200 citations (Source: Google Scholar). My h-index is 10 and i10-index is 10.
+Summary of my publications (by July, 2025): I have published 17 papers including 11 peer-reviewed journal papers (7 SCI JCR-Q1 papers), 6 peer-reviewed conference papers (including 2 toptier AI conference papers: 1 ICML and 1 CVPR). These papers have received over 200 citations (Source: Google Scholar). My h-index is 10 and i10-index is 10.
 <li>
 	Y. Qiu, A. Wang, C. Li, <b>H.</b> <b>Huang</b>, G. Zhou and Q. Zhao, "STEPS: Sequential Probability Tensor Estimation for Text-to-Image Hard Prompt Search", IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2025. 
 	<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_STEPS_Sequential_Probability_Tensor_Estimation_for_Text-to-Image_Hard_Prompt_Search_CVPR_2025_paper.html" style="text-decoration:underline;">[Paper]</a>
