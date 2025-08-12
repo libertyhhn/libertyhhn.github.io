@@ -203,7 +203,7 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 		[2024.09.10] <a href="https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/177302" style="text-decoration:underline;"> Tensor Learning Team Seminar</a>   (online), RIKEN AIP
 	</li>
 	<li>
-		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Techonology
+		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Technology
 	</li><br>
    </ul>
    <h1>Project</h1>
