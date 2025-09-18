@@ -192,7 +192,7 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 	 </p> 
 	 <p>
 <li> 
-	Reviewer for Multimedia Tools and Applications (MTAP) 
+	Reviewer for Knowledge and Information Systems (KIS) 
 	</li>
 	 </p> 
 	 </ul>
@@ -205,69 +205,4 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 	<li>
 		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Technology
 	</li><br>
-   </ul>
-   <h1>Project</h1>
-   <p>
-   <ul>
-	   <li>
-		   <B> Q&A system for epilepsy diagnostic </B> <br>
-		   Project Leader, 2019 Seed Program Project in GDUT.<br>
-		   <img src="../images/QA.png">
-		   <br>
-		   <a href="https://link.springer.com/article/10.1007/s10489-021-02212-w" style="text-decoration:underline;">
-			[Paper]
-		</a>
-		<a href="https://github.com/chenxichen95/MCFN" style="text-decoration:underline;">
-			[Code for Python]</a>
-	   </li><br>
-	<li> <B>A Laser Beam Profiler System</B> <br>
-		Project Leader, 2017 Guangdong Undergraduate Training Program for Innovation and Entrepreneurship.<br>
-		<img src="../images/laser.png">
-	        <br>	
-<a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/research/Chinese%20Technical%20Reports%20of%20Laser%20Beam%20Profiler.pdf" style="text-decoration:underline;">
-			[Chinese Technical Reports]
-		</a>
-		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
-			[Code for LabVIEW]</a>
-<br></li>
-   </ul>
-   </p> 
-
-   <h1>Awards</h1>
-   <p>
-   <ul>
-	<li>
-		Doctoral National Scholarship, 2023 (博士研究生国家奖学金)
-                <br><br>
-	   </li>
-	<li>
-		Outstanding graduates of School of Automation, Guangdong University of Technology, 2021  
-                <br><br>
-	   </li>
-	<li>
-		Outstanding graduates of Beijing Institute of Technology, Zhuhai, 2018 
-                <br><br>
-	   </li>
-	<li>
-		A Laser Beam Quality Analysis Instrument.(激光光束质量分析仪)
-		<br>
-		Second Prize in Guangdong 14^th Challenge Cup （广东省第十四届挑战杯二等奖）under the guidance of Prof. Junwen Xue.
-		<br>
-		<a href="https://github.com/libertyhhn/LaserQualityMeasurementSoftware" style="text-decoration:underline;">
-			[Code for LabVIEW]
-		</a>
-		<a href="https://www.bilibili.com/video/av55328647" style="text-decoration:underline;">
-			[Video in bilibili]
-		</a><br><br>
-	   </li>
-	<li>Measurement of Flame Flow Field with Double-path Schlieren Structure Using Mobile Phone as Light Source.
-		（用手机做光源的双光程纹影结构对火焰流场的测量）
-		<br>
-		Second Prize in Guangdong 18^th College Physics Experiment Design Competition （广东省第十八届大学生物理实验竞赛二等奖） under the guidance of Prof. Junwen Xue.
-		<br>
-	        <a href="https://www.bilibili.com/video/av55328155" style="text-decoration:underline;">
-			[Video in bilibili]
-		</a>
-	   </li>
-   </ul>
-   </p> 
+   </ul>  
