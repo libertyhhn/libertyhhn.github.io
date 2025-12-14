@@ -37,11 +37,10 @@
 
 <link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 
-<!-- Google Translate -->
+<!-- Language Switch Style -->
 <style>
   .language-switch {
     display: inline-block;
-    margin-left: 15px;
     cursor: pointer;
     font-size: 14px;
     padding: 5px 10px;
@@ -49,9 +48,12 @@
     background: #f5f5f5;
     border: 1px solid #ddd;
     transition: all 0.3s;
+    text-decoration: none;
+    color: #333;
   }
   .language-switch:hover {
     background: #e0e0e0;
+    text-decoration: none;
   }
   .language-switch.active {
     background: #333;
@@ -63,107 +65,7 @@
     gap: 5px;
     vertical-align: middle;
   }
-  /* 隐藏 Google Translate 默认的工具栏 */
-  .goog-te-banner-frame, .skiptranslate {
-    display: none !important;
-  }
-  body {
-    top: 0 !important;
-  }
-  .goog-te-gadget {
-    display: none !important;
-  }
 </style>
-<script type="text/javascript">
-  // 自定义翻译映射表 - 在这里添加需要特殊翻译的词汇
-  var customTranslations = {
-    'Haonan Huang': '黄昊楠',
-    'Huang': '黄昊楠',
-    'Qibin Zhao': '赵启斌',
-    'Guoxu Zhou': '周郭许',
-    'Lifang He': '何丽芳',
-    'Zuyuan Yang': '杨祖元',
-    'Shengli Xie': '谢胜利',
-    'Zhenni Li': '李珍妮',
-    // 机构名称
-    'RIKEN AIP': '日本理化学研究所 AIP',
-    'Guangdong University of Technology': '广东工业大学',
-    'GDUT': '广工',
-    'Lehigh University': '理海大学',
-    'Beijing Institute of Technology, Zhuhai': '北京理工大学珠海学院',
-    'University of Melbourne': '墨尔本大学',
-    'University of Sydney': '悉尼大学',
-    // 学术术语
-    'Tensor Decomposition': '张量分解',
-    'Tensor Learning': '张量学习',
-    'Multi-view Learning': '多视图学习',
-    'Adversarial Machine Learning': '对抗机器学习',
-    'Self-supervised Learning': '自监督学习',
-    'Large Language Models': '大语言模型',
-    'Diffusion Models': '扩散模型',
-    // 可以继续添加更多映射...
-  };
-  
-  // 保存原始文本内容
-  var originalContent = null;
-  
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'en,zh-CN',
-      autoDisplay: false
-    }, 'google_translate_element');
-  }
-  
-  // 应用自定义翻译
-  function applyCustomTranslations() {
-    setTimeout(function() {
-      var body = document.body;
-      var walker = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, null, false);
-      var node;
-      while (node = walker.nextNode()) {
-        var text = node.nodeValue;
-        for (var eng in customTranslations) {
-          if (text.includes(eng)) {
-            node.nodeValue = text.replace(new RegExp(eng, 'g'), customTranslations[eng]);
-            text = node.nodeValue;
-          }
-        }
-      }
-    }, 1500); // 等待 Google 翻译完成后再替换
-  }
-  
-  function switchLanguage(lang) {
-    var select = document.querySelector('.goog-te-combo');
-    if (select) {
-      select.value = lang;
-      select.dispatchEvent(new Event('change'));
-    }
-    // 更新按钮状态
-    document.querySelectorAll('.language-switch').forEach(function(btn) {
-      btn.classList.remove('active');
-    });
-    document.querySelector('.language-switch[data-lang="' + lang + '"]').classList.add('active');
-    // 保存语言偏好
-    localStorage.setItem('preferredLang', lang);
-    
-    // 如果切换到中文，应用自定义翻译
-    if (lang === 'zh-CN') {
-      applyCustomTranslations();
-    }
-  }
-  
-  // 页面加载时恢复语言偏好
-  document.addEventListener('DOMContentLoaded', function() {
-    var savedLang = localStorage.getItem('preferredLang');
-    if (savedLang && savedLang !== 'en') {
-      setTimeout(function() {
-        switchLanguage(savedLang);
-      }, 1000);
-    }
-  });
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 <!-- Icons -->
 <!-- 16x16 -->

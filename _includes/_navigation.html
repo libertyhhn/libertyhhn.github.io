@@ -15,10 +15,14 @@
 				{% endfor %}
 				<li>
 					<div class="lang-buttons">
-						<span class="language-switch active" data-lang="en" onclick="switchLanguage('en')">EN</span>
-						<span class="language-switch" data-lang="zh-CN" onclick="switchLanguage('zh-CN')">中文</span>
+						{% if page.lang == 'zh' %}
+						<a href="{{ site.url }}/" class="language-switch">EN</a>
+						<span class="language-switch active">中文</span>
+						{% else %}
+						<span class="language-switch active">EN</span>
+						<a href="{{ site.url }}/cn/" class="language-switch">中文</a>
+						{% endif %}
 					</div>
-					<div id="google_translate_element" style="display:none;"></div>
 				</li>
 		    </ul>
 		</nav>
