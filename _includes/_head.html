@@ -75,12 +75,62 @@
   }
 </style>
 <script type="text/javascript">
+  // 自定义翻译映射表 - 在这里添加需要特殊翻译的词汇
+  var customTranslations = {
+    'Haonan Huang': '黄昊楠',
+    'Huang': '黄昊楠',
+    'Qibin Zhao': '赵启斌',
+    'Guoxu Zhou': '周郭许',
+    'Lifang He': '何丽芳',
+    'Zuyuan Yang': '杨祖元',
+    'Shengli Xie': '谢胜利',
+    'Zhenni Li': '李珍妮',
+    // 机构名称
+    'RIKEN AIP': '日本理化学研究所 AIP',
+    'Guangdong University of Technology': '广东工业大学',
+    'GDUT': '广工',
+    'Lehigh University': '理海大学',
+    'Beijing Institute of Technology, Zhuhai': '北京理工大学珠海学院',
+    'University of Melbourne': '墨尔本大学',
+    'University of Sydney': '悉尼大学',
+    // 学术术语
+    'Tensor Decomposition': '张量分解',
+    'Tensor Learning': '张量学习',
+    'Multi-view Learning': '多视图学习',
+    'Adversarial Machine Learning': '对抗机器学习',
+    'Self-supervised Learning': '自监督学习',
+    'Large Language Models': '大语言模型',
+    'Diffusion Models': '扩散模型',
+    // 可以继续添加更多映射...
+  };
+  
+  // 保存原始文本内容
+  var originalContent = null;
+  
   function googleTranslateElementInit() {
     new google.translate.TranslateElement({
       pageLanguage: 'en',
       includedLanguages: 'en,zh-CN',
       autoDisplay: false
     }, 'google_translate_element');
+  }
+  
+  // 应用自定义翻译
+  function applyCustomTranslations() {
+    setTimeout(function() {
+      var body = document.body;
+      var walker = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, null, false);
+      var node;
+      while (node = walker.nextNode()) {
+        var text = node.nodeValue;
+        for (var eng in customTranslations) {
+          if (text.includes(eng)) {
+            node.nodeValue = text.replace(new RegExp(eng, 'g'), customTranslations[eng]);
+            text = node.nodeValue;
+          }
+        }
+      }
+    }, 1500); // 等待 Google 翻译完成后再替换
   }
   
   function switchLanguage(lang) {
@@ -96,6 +146,11 @@
     document.querySelector('.language-switch[data-lang="' + lang + '"]').classList.add('active');
     // 保存语言偏好
     localStorage.setItem('preferredLang', lang);
+    
+    // 如果切换到中文，应用自定义翻译
+    if (lang === 'zh-CN') {
+      applyCustomTranslations();
+    }
   }
   
   // 页面加载时恢复语言偏好
