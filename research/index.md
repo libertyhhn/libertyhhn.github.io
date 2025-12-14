@@ -12,7 +12,7 @@ share: false
 <ol>
 <h1>Selected Publications</h1>
 <p>
-Summary of my publications (by July, 2025): I have published 17 papers including 11 peer-reviewed journal papers (7 SCI JCR-Q1 papers), 6 peer-reviewed conference papers (including 2 toptier AI conference papers: 1 ICML and 1 CVPR). These papers have received over 200 citations (Source: Google Scholar). My h-index is 10 and i10-index is 10.
+Summary of my publications (by Dec., 2025): I have published 21 papers including 14 peer-reviewed journal papers (8 SCI JCR-Q1 papers), 7 peer-reviewed conference papers (including 3 toptier AI conference papers: 1 ICML, 1 NeurIPS and 1 CVPR). These papers have received over 200 citations (Source: Google Scholar). My h-index is 11 and i10-index is 11.
 <li>
 	A. Wang, Y. Qiu, <b>H.</b> <b>Huang</b>, Z. Jin, G. Zhou and Q. Zhao, "Towards a Geometric Understanding of Tensor Learning via the t-Product", The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. 
 	<a href="https://neurips.cc/virtual/2025/poster/120278" style="text-decoration:underline;">[Paper]</a>			
@@ -48,6 +48,7 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 		<a href="https://www.hindawi.com/journals/ijis/2023/7217818/" style="text-decoration:underline;">[Paper]</a>		
 	<br>
 </li><br>
+
 <li>
 	<b>H.</b> <b>Huang</b>, G. Zhou, N. Liang, Q. Zhao and S. Xie, "Diverse Deep Matrix Factorization with Hypergraph Regularization for Multi-view Data Representation",  IEEE/CAA Journal of Automatica Sinica (IEEE JAS), 2022. 
 		<a href="https://ieeexplore.ieee.org/document/9910368/authors#authors" style="text-decoration:underline;">[Paper]</a>		
@@ -60,34 +61,7 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 	<a href="https://github.com/isYuyuanYu/Label-driven-auto-weighted-constrained-K-means" style="text-decoration:underline;">
 			[Code for Matlab]</a><br>
 </li><br>
-	<li>
-	<b>H.</b> <b>Huang</b>, Y. Luo, G. Zhou and Q. Zhao, "Multi-view Data Representation via Deep Autoencoder-like Nonnegative Matrix Factorization",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.     
-		<a href="https://ieeexplore.ieee.org/abstract/document/9747857" style="text-decoration:underline;">[Paper]</a>		
-	<a href="https://github.com/libertyhhn/DANMF-MRL" style="text-decoration:underline;">[Code for Matlab]</a><br>
-</li><br>
-	
-<li>
-	<b>H.</b> <b>Huang</b>, Z. Yang, Z. Li and W. Sun, "Deep Graph semi-NMF algorithm and its convergence",  Circuits, Systems, and Signal Processing, 2021.          <a href="https://link.springer.com/article/10.1007/s00034-021-01833-3  " style="text-decoration:underline;">[Paper]</a>			
-    <a href="https://github.com/libertyhhn/DeepMF" style="text-decoration:underline;">[Matlab Library for Deep Matrix Factorization models]</a> with data clustering.
-		        <br>			
-</li><br>
-	
-<li>
-	<b>H.</b> <b>Huang</b>, N. Liang, W. Yan, Z. Yang and W. Sun, "Deep Matrix Factorization with Multi-view Data", 20th IEEE International Conference on Data Mining Workshops (ICDMW)，2020. <a href="https://ieeexplore.ieee.org/document/9346449" style="text-decoration:underline;">[Paper]</a>	
-		<a href="https://github.com/libertyhhn/PartiallySharedDMF" style="text-decoration:underline;"> [Code for Matlab]</a><br>		
-	</li><br>
 
-<li>
-	<b>H.</b> <b>Huang</b>, Z. Yang, N. Liang, and Z. Li, "Semi-NMF network for image classification", in 2019 Chinese Control Conference (CCC). <a href="https://github.com/libertyhhn/libertyhhn.github.io/blob/master/publications/19%20CCC%20Semi-NMF%20network%20for%20image%20classification.pdf" style="text-decoration:underline;">
-			[Paper]</a>	
-	<a href="https://github.com/libertyhhn/SNnet" style="text-decoration:underline;">
-			[Code for Matlab]</a><br>		
-	</li><br>
-	
-<li>
-	  W. Han, S. Xie, Z. Yang, S. Zhou and <b> H.</b> <b>Huang</b>, "Heart sound classification using the SNMFNet classifier", Physiological measurement, 40(10), 105003, 2019.  <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab45c8/meta  " style="text-decoration:underline;">[Paper]</a>
-		<a href="https://github.com/libertyhhn/SNMFNet" style="text-decoration:underline;">[Code for Python]</a>
-	</li><br>
 <br>
   </p> 
 	<h1>Services</h1>
@@ -120,7 +94,7 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 	 </p> 
 	<p>
 		<li> 
-	Program Committee for International Joint Conference on Artificial Intelligence (IJCAI) 2025 
+	Program Committee for International Joint Conference on Artificial Intelligence (IJCAI) 2026, 2025 
 				</li>
 	 </p> 
 	<p>
@@ -157,6 +131,11 @@ Summary of my publications (by July, 2025): I have published 17 papers including
 	<p>
 <li>  
 	Reviewer for IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCA) 
+	</li>
+	 </p> 
+	<p>
+<li>  
+	Reviewer for IEEE Transactions on Signal Processing (TSP) 
 	</li>
 	 </p> 
 	<p>
