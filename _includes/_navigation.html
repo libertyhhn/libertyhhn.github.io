@@ -1,44 +1,18 @@
 <div class="navigation-wrapper"> 
  	<div class="site-name">
-		{% if page.lang == 'zh' %}
-		<a href="{{ site.url }}/cn/">{{ site.title }}</a>
-		{% else %}
 		<a href="{{ site.url }}/">{{ site.title }}</a> 
-		{% endif %}
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
-				{% if page.lang == 'zh' %}
-					{% for link in site.data.navigation-cn %}
-						{% if link.url contains 'http' %}
-							{% assign domain = '' %}
-						{% else %}
-							{% assign domain = site.url %}
-						{% endif %}
-						<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-					{% endfor %}
-				{% else %}
-					{% for link in site.data.navigation %}
-						{% if link.url contains 'http' %}
-							{% assign domain = '' %}
-						{% else %}
-							{% assign domain = site.url %}
-						{% endif %}
-						<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-					{% endfor %}
-				{% endif %}
-				<li>
-					<div class="lang-buttons">
-						{% if page.lang == 'zh' %}
-						<a href="{{ site.url }}/" class="language-switch">EN</a>
-						<span class="language-switch active">中文</span>
-						{% else %}
-						<span class="language-switch active">EN</span>
-						<a href="{{ site.url }}/cn/" class="language-switch">中文</a>
-						{% endif %}
-					</div>
-				</li>
+		        {% for link in site.data.navigation %}
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				{% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
