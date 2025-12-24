@@ -135,48 +135,16 @@ share: false
   </div>
 
   <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/travel-1.jpg" alt="Travel Photo 1">
+    <img src="{{ site.url }}/images/gallery/Ogimachi.JPG" alt="Ogimachi, Shirakawa-go">
     <div class="caption">
-      <h3>Tokyo, Japan</h3>
-      <p>2025</p>
-    </div>
-  </div>
-  
-  <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/travel-2.jpg" alt="Travel Photo 2">
-    <div class="caption">
-      <h3>Vienna, Austria</h3>
-      <p>ICML 2024</p>
-    </div>
-  </div>
-  
-  <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/travel-3.jpg" alt="Travel Photo 3">
-    <div class="caption">
-      <h3>Guangzhou, China</h3>
-      <p>My hometown</p>
+      <h3>Shirakawa-go</h3>
+      <p>Ogimachi, Japan · 2025</p>
     </div>
   </div>
 </div>
 
 <h2 class="gallery-category">🎓 Academic Life</h2>
 <div class="gallery-container">
-  <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/academic-1.jpg" alt="Academic Photo 1">
-    <div class="caption">
-      <h3>RIKEN AIP</h3>
-      <p>Research lab</p>
-    </div>
-  </div>
-  
-  <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/academic-2.jpg" alt="Academic Photo 2">
-    <div class="caption">
-      <h3>Conference Presentation</h3>
-      <p>2024</p>
-    </div>
-  </div>
-  
   <div class="gallery-item" onclick="openLightbox(this)">
     <img src="{{ site.url }}/images/gallery/RikenWakoFall.jpg" alt="Riken Wako Fall">
     <div class="caption">
