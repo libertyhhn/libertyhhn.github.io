@@ -141,6 +141,22 @@ share: false
       <p>Ogimachi, Japan · 2025</p>
     </div>
   </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/Sydney.jpg" alt="Sydney, Australia">
+    <div class="caption">
+      <h3>Sydney</h3>
+      <p>Sydney, Australia · 2025</p>
+    </div>
+  </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/Karlskirche.jpg" alt="Karlskirche, Vienna">
+    <div class="caption">
+      <h3>Karlskirche, Vienna</h3>
+      <p>Vienna, Austria · 2025<br>Attended Vivaldi's Four Seasons here - an amazing classical concert! As a violin enthusiast, it was unforgettable.</p>
+    </div>
+  </div>
 </div>
 
 <h2 class="gallery-category">🎓 Academic Life</h2>
@@ -150,6 +166,14 @@ share: false
     <div class="caption">
       <h3>Riken Wako Fall</h3>
       <p>RIKEN, Wako · Fall 2025</p>
+    </div>
+  </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/SydneyU.jpg" alt="Sydney University">
+    <div class="caption">
+      <h3>Sydney University</h3>
+      <p>Sydney, Australia · 2025</p>
     </div>
   </div>
 </div>
