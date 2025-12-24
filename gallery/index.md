@@ -113,10 +113,10 @@ share: false
 </style>
 
 <p class="gallery-intro">
-  📷 Photography is one of my passions. Here I share some moments I've captured during my travels and daily life.
+  📷 Photography is one of my passions. Here I share some moments I've captured from my travels and academic life.
 </p>
 
-<h2 class="gallery-category">� Landscapes</h2>
+<h2 class="gallery-category">🌅 Landscapes</h2>
 <div class="gallery-container">
   <div class="gallery-item" onclick="openLightbox(this)">
     <img src="{{ site.url }}/images/gallery/OdaibaNight.jpg" alt="Tokyo Tower Night View from Odaiba">
