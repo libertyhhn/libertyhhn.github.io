@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/
 title: Photography
 tags: [photography, gallery]
-modified: 12-17-2025
+modified: 12-24-2025
 comments: false
 share: false
 ---
@@ -123,6 +123,14 @@ share: false
     <div class="caption">
       <h3>Tokyo Tower at Night</h3>
       <p>Odaiba, Tokyo · 2025</p>
+    </div>
+  </div>
+
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/OdaibaFireworkShow.JPG" alt="Odaiba Firework Show">
+    <div class="caption">
+      <h3>Odaiba Firework Show</h3>
+      <p>Odaiba, Tokyo · 2025<br><strong>🏆 Grand Prize Winner - 2025 TIEC Photo Contest</strong><br><a href="https://www.facebook.com/photo?fbid=858450030165093&set=pcb.858457793497650" target="_blank">Source</a></p>
     </div>
   </div>
 
