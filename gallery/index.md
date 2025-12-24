@@ -157,6 +157,14 @@ share: false
       <p>Vienna, Austria · 2025<br>Attended Vivaldi's Four Seasons here - an amazing classical concert! As a violin enthusiast, it was unforgettable.</p>
     </div>
   </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/KunigamiOkinawa.jpg" alt="Kunigami, Okinawa">
+    <div class="caption">
+      <h3>Manza-mo, Okinawa</h3>
+      <p>Kunigami, Okinawa · 2025</p>
+    </div>
+  </div>
 </div>
 
 <h2 class="gallery-category">🎓 Academic Life</h2>
