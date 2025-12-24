@@ -116,7 +116,7 @@ share: false
   📷 Photography is one of my passions. Here I share some moments I've captured during my travels and daily life.
 </p>
 
-<h2 class="gallery-category">🌏 Travel</h2>
+<h2 class="gallery-category">� Landscapes</h2>
 <div class="gallery-container">
   <div class="gallery-item" onclick="openLightbox(this)">
     <img src="{{ site.url }}/images/gallery/OdaibaNight.jpg" alt="Tokyo Tower Night View from Odaiba">
@@ -176,26 +176,17 @@ share: false
       <p>2024</p>
     </div>
   </div>
-</div>
-
-<h2 class="gallery-category">🌅 Landscapes</h2>
-<div class="gallery-container">
-  <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/landscape-1.jpg" alt="Landscape 1">
-    <div class="caption">
-      <h3>Sunset</h3>
-      <p>Nature beauty</p>
-    </div>
-  </div>
   
   <div class="gallery-item" onclick="openLightbox(this)">
-    <img src="{{ site.url }}/images/gallery/landscape-2.jpg" alt="Landscape 2">
+    <img src="{{ site.url }}/images/gallery/RikenWakoFall.jpg" alt="Riken Wako Fall">
     <div class="caption">
-      <h3>Mountain View</h3>
-      <p>Hiking trip</p>
+      <h3>Riken Wako Fall</h3>
+      <p>RIKEN, Wako · Fall 2025</p>
     </div>
   </div>
 </div>
+
+
 
 <!-- Lightbox -->
 <div class="lightbox" id="lightbox" onclick="closeLightbox()">
