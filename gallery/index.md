@@ -184,6 +184,22 @@ share: false
       <p>Sydney, Australia · 2025</p>
     </div>
   </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/Melbourne.jpeg" alt="Melbourne City View from University of Melbourne">
+    <div class="caption">
+      <h3>Melbourne City View</h3>
+      <p>Melbourne, Australia · 2025<br>From the University of Melbourne - amazing views!</p>
+    </div>
+  </div>
+  
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/TokyoU.jpeg" alt="Autumn at University of Tokyo">
+    <div class="caption">
+      <h3>Autumn at University of Tokyo</h3>
+      <p>Tokyo, Japan · Autumn 2025</p>
+    </div>
+  </div>
 </div>
 
 
