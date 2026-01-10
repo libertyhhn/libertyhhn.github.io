@@ -178,6 +178,16 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 	Reviewer for Knowledge and Information Systems (KIS) 
 	</li>
 	 </p> 
+	 <p>
+<li> 
+	Reviewer for Information Fusion
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for Neurocomputing
+	</li>
+	 </p> 
 	 </ul>
 <h1>Talks</h1>
    <p>
