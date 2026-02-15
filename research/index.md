@@ -84,7 +84,7 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 	 </p> 
 	<p>
 		<li> 
-	Area Chairs for ICLR 2025 Workshop DeLTa 
+	Area Chairs for ICLR 2026, 2025 Workshop DeLTa 
 				</li>
 	 </p>  
 	<p>
@@ -114,7 +114,7 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 	 </p> 
 	 <p>
 		<li> 
-	Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2024 
+	Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026, 2025, 2024 
 				</li>
 	 </p> 
 	<p>
@@ -186,6 +186,16 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 	 <p>
 <li> 
 	Reviewer for Neurocomputing
+	</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for Information Sciences
+		</li>
+	 </p> 
+	 <p>
+<li> 
+	Reviewer for International Journal of Approximate Reasoning
 	</li>
 	 </p> 
 	 </ul>
