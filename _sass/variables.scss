@@ -52,15 +52,15 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		    : #045bdd;
+$linkcolor 		    : #000000;
 $link-color       : $linkcolor;
-$linkcolorhover 	: #045bdd;
+$linkcolorhover 	: #00a0a0;
 $linkcolorvisited : lighten($linkcolor, 0);
 $linkcolorfocus 	: lighten($linkcolorhover, 20);
 
 $linkcolor-textlink        : #045bdd; //darken($linkcolorhover-textlink, 10); 
 $link-color-textlink       : $linkcolor-textlink;
-$linkcolorhover-textlink   : #045bdd; //$linkcolorhover; //
+$linkcolorhover-textlink   : #00a0a0; //$linkcolorhover; //
 $linkcolorvisited-textlink : lighten($linkcolor-textlink, 0);
 $linkcolorfocus-textlink   : lighten($linkcolorhover-textlink, 20);
 /*
