@@ -202,6 +202,9 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 <h1>Talks</h1>
    <p>
    <ul>
+   	<li>
+		[2024.09.10] <a href="https://tongliang-liu.github.io/aiworkshop" style="text-decoration:underline;"> AI Workshop</a>   University of Sydney
+	</li>
 	<li>
 		[2024.09.10] <a href="https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/177302" style="text-decoration:underline;"> Tensor Learning Team Seminar</a>   (online), RIKEN AIP
 	</li>
