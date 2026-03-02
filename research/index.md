@@ -212,3 +212,12 @@ Summary of my publications (by Dec., 2025): I have published 21 papers including
 		[2024.05.27]  Tensor Analysis and Machine Intelligence Lab Seminar, Guangdong University of Technology
 	</li><br>
    </ul>  
+
+<h1>Grants</h1>
+   <p>
+   <ul>
+   	<li>
+		[2026 - 2028] JSPS, KAKENHI, Early-Career Scientists
+	</li>
+	<br>
+   </ul>  
