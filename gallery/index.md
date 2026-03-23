@@ -118,6 +118,16 @@ share: false
 
 <h2 class="gallery-category">🌅 Landscapes</h2>
 <div class="gallery-container">
+
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/Otaru.jpeg" alt="Otaru View from Tenguyama">
+    <div class="caption">
+      <h3>Otaru View from Tenguyama</h3>
+      <p>Otaru, Hokkaido · 2026</p>
+    </div>
+  </div>
+
+
   <div class="gallery-item" onclick="openLightbox(this)">
     <img src="{{ site.url }}/images/gallery/OdaibaNight.jpg" alt="Tokyo Tower Night View from Odaiba">
     <div class="caption">
