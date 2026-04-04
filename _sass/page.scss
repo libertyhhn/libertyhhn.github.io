@@ -292,6 +292,49 @@ $button-size: 1.5rem;
 			text-indent: 0;
 		}
 	}
+
+	.about-summary {
+		p {
+			margin-bottom: 0.6em;
+		}
+	}
+
+	.about-contact-card {
+		margin: 1.2em 0 1.8em;
+		padding: 0.9em 1.1em;
+		border-left: 4px solid darken($basecolor, 8%);
+		background: lighten($basecolor, 68%);
+
+		p {
+			margin-bottom: 0.5em;
+		}
+
+		p:last-child {
+			margin-bottom: 0;
+		}
+
+		.about-contact-email {
+			margin-bottom: 0.35em;
+		}
+
+		a,
+		a:hover {
+			border-bottom: 0 solid transparent;
+		}
+	}
+
+	.research-focus {
+		margin-bottom: 0.4em;
+	}
+
+	.research-resources {
+		margin-top: 0;
+		margin-bottom: 1.2em;
+
+		li {
+			margin-bottom: 0;
+		}
+	}
 }
 
 /* Large feature header image */
