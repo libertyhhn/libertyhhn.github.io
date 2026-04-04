@@ -306,7 +306,14 @@ $button-size: 1.5rem;
 		background: lighten($basecolor, 68%);
 
 		p {
+			text-indent: 0;
+			margin-top: 0;
 			margin-bottom: 0.5em;
+		}
+
+		p + p {
+			text-indent: 0;
+			margin-top: 0;
 		}
 
 		p:last-child {
