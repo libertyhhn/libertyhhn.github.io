@@ -295,7 +295,14 @@ $button-size: 1.5rem;
 
 	.about-summary {
 		p {
+			text-indent: 0;
+			margin-top: 0;
 			margin-bottom: 0.6em;
+		}
+
+		p + p {
+			text-indent: 0;
+			margin-top: 0;
 		}
 	}
 
