@@ -127,6 +127,13 @@ share: false
     </div>
   </div>
 
+  <div class="gallery-item" onclick="openLightbox(this)">
+    <img src="{{ site.url }}/images/gallery/qingdao.jpeg" alt="Laoshan Scenic View, Qingdao">
+    <div class="caption">
+      <h3>Laoshan Scenic View</h3>
+      <p>Qingdao, China · 2026</p>
+    </div>
+  </div>
 
   <div class="gallery-item" onclick="openLightbox(this)">
     <img src="{{ site.url }}/images/gallery/OdaibaNight.jpg" alt="Tokyo Tower Night View from Odaiba">
