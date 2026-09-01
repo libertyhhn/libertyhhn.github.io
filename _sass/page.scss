@@ -9,6 +9,9 @@ body {
   margin:0px;
   padding:0px;
   background: #FFFFFF; //$bodycolor;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /*
@@ -17,10 +20,11 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 0;//1em;
+	padding: 1.4em 0 1.1em;
 	font-family: $heading-font;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: 600;
+	border-bottom: 1px solid $border-light;
+	margin-bottom: 2em;
 	@include clearfix;
 }
 
@@ -33,7 +37,8 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
-	@include font-rem(24);
+	letter-spacing: -0.01em;
+	@include font-rem(22);
 	@media #{$small} {
 		@include grid(12,2);
 		@include prefix(12,0.5);
@@ -76,13 +81,13 @@ body {
 		list-style-type: none;
 		border-bottom: 1px solid lighten($black,80);
 		border-bottom: 1px solid fade($black,10);
-		@include font-rem(16);
+		@include font-rem(15);
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
 		@media #{$small} {
 			display: inline;
-			margin-right: 25px;
+			margin-right: 28px;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
@@ -91,6 +96,7 @@ body {
 			padding: 10px 0;
 			decoration: none;
 			border-bottom: 0 solid transparent;
+			font-weight: 500;
 			@include transition(all .2s);
 			@media #{$small} {
 				display: inline;
@@ -237,7 +243,7 @@ $button-size: 1.5rem;
 	}
 	.post,
 	.page {
-    text-align:justify;
+    text-align:left;
 		@include container;
 		@include grid(12,10);
 		@include prefix(12,1);
@@ -261,7 +267,7 @@ $button-size: 1.5rem;
 	@include prefix(12,1);
 	@include suffix(12,1);
 	margin-bottom: 2em;
-  text-align:justify;
+  text-align:left;
 	@media #{$small} {
 		@include grid(12,8);
 		@include prefix(12,0);
@@ -270,11 +276,32 @@ $button-size: 1.5rem;
 	@media #{$x-large} {
 		@include grid(12,5);
 	}
+	h1 {
+		@include font-rem(23);
+		font-weight: 600;
+		margin-top: 1.9em;
+		margin-bottom: 0.7em;
+		padding-bottom: 0.4em;
+		border-bottom: 1px solid $border-light;
+		&:first-child {
+			margin-top: 0;
+		}
+	}
+	h2 {
+		@include font-rem(20);
+		font-weight: 600;
+	}
+	ul {
+		li {
+			margin-bottom: 0.35em;
+			line-height: 1.7;
+		}
+	}
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
 		@include font-rem(28);
-		border-bottom: 1px solid lighten($black,70);
+		border-bottom: 1px solid $border-light;
 	}
 	article {
 		h2 {
@@ -298,7 +325,7 @@ $button-size: 1.5rem;
 			text-indent: 0;
 			margin-top: 0;
 			margin-bottom: 1em;
-			line-height: 1.6;
+			line-height: 1.75;
 		}
 
 		p + p {
@@ -310,9 +337,10 @@ $button-size: 1.5rem;
 
 	.about-contact-card {
 		margin: 1.2em 0 1.8em;
-		padding: 0.9em 1.1em;
-		border-left: 4px solid darken($basecolor, 8%);
-		background: lighten($basecolor, 68%);
+		padding: 1em 1.25em;
+		border-left: 3px solid $linkcolor-textlink;
+		background: lighten($linkcolor-textlink, 50%);
+		@include rounded(8px);
 
 		.contact-list {
 			list-style: none;
@@ -429,7 +457,9 @@ $button-size: 1.5rem;
 	}
 	p {
 		font-size: 80%;
-		font-style: italic;
+		font-style: normal;
+		color: $muted-color;
+		line-height: 1.6;
 	}
 	a, a:hover {
 		border-bottom: 0 solid transparent;
@@ -441,15 +471,16 @@ $button-size: 1.5rem;
   display: block;
   margin-bottom: 5px;
   @include font-rem(14);
-  color: $black;
+  color: #4b5563;
   &:visited {
-    color: $black;
+    color: #4b5563;
   }
   &:hover {
-    @include scale(1.1);
+    color: $linkcolorhover;
+    text-decoration: none;
   }
   &:active {
-    @include translate(0, 2px);
+    @include translate(0, 1px);
   }
   .fa {
 		margin-right: 5px;
@@ -460,8 +491,10 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 110px;
+		max-width: 140px;
+		border: 3px solid $white;
 		@include rounded(150px);
+		@include box-shadow(0 2px 10px rgba(0,0,0,.14));
 	}
 	@media #{$small} {
 		display: block;
@@ -475,14 +508,17 @@ $button-size: 1.5rem;
 			max-width: 125px;
 		}
 		h3 {
-			margin-top: 10px;
-			margin-bottom: 10px;
+			@include font-rem(17);
+			font-weight: 600;
+			letter-spacing: 0;
+			margin-top: 12px;
+			margin-bottom: 8px;
 		}
 		p {
 			margin-bottom: 20px;
 		}
 		.author-social {
-			margin-bottom: 5px;
+			margin-bottom: 6px;
 		}
 	}
 	@media #{$large} {
@@ -721,7 +757,11 @@ $button-size: 1.5rem;
 	@include container;
 	@include clearfix;
 	clear: both;
+	padding-top: 1.6em;
 	padding-bottom: 3em;
+	border-top: 1px solid $border-light;
+	margin-top: 1em;
+	color: $muted-color;
 	a,
 	a:active,
 	a:visited,

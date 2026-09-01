@@ -8,6 +8,9 @@
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
+	font-weight: 600;
+	letter-spacing: -0.015em;
+	color: #1f2329;
 }
 h1 {
 	@include font-size(32);
@@ -40,6 +43,8 @@ a {
 	}
 	&:hover {
 		color: $linkcolorhover;
+		text-decoration: underline;
+		text-underline-offset: 3px;
 	}
 	&:focus {
 		outline: thin dotted;
@@ -135,11 +140,12 @@ figcaption {
    ========================================================================== */
 
 blockquote {
-	margin-left: -28px;
-	padding-left: 20px;
-	border-left: 8px solid $border-color;
+	margin-left: 0;
+	padding-left: 1.2em;
+	border-left: 3px solid $border-light;
 	font-family: $alt-font;
-	font-style: italic;
+	font-style: normal;
+	color: $muted-color;
 }
 
 /*

@@ -7,13 +7,13 @@
    ========================================================================== */
 
 ::-moz-selection {
-	background-color: lighten($basecolor, 65%);
-	color: $basecolor;
+	background-color: $linkcolor-textlink;
+	color: $white;
 	text-shadow: none;
 }
 ::selection {
-	background-color: lighten($basecolor, 65%);
-	color: $basecolor;
+	background-color: $linkcolor-textlink;
+	color: $white;
 	text-shadow: none;
 }
 

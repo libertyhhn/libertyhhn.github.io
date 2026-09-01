@@ -71,17 +71,17 @@ svg:not(:root) {
 .btn {
   display: inline-block;
   margin-bottom: 20px;
-  padding: 8px 20px;
+  padding: 8px 22px;
   @include font-rem(14);
   font-family: $heading-font;
-  font-weight: 700;
+  font-weight: 600;
   background-color: $primary;
   color: $white;
-  border-width: 2px !important;
+  border-width: 1px !important;
   border-style: solid !important;
   border-color: $primary;
   text-decoration: none !important;
-  @include rounded(3px);
+  @include rounded(6px);
   &:visited {
     color: $white;
   }
