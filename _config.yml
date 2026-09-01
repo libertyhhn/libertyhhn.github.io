@@ -35,11 +35,11 @@ owner:
   google:
     plus:
     scholar: https://scholar.google.com/citations?user=8zy4LVYAAAAJ&hl=en
-  researchgate: Haonan-Huang-2
     analytics:
     verify:
     ad-client:
     ad-slot:
+  researchgate: Haonan-Huang-2
   bing-verify:
   github: libertyhhn
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
