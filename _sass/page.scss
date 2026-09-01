@@ -297,6 +297,37 @@ $button-size: 1.5rem;
 			line-height: 1.7;
 		}
 	}
+	.news-date {
+		font-weight: 600;
+		color: #1f2329;
+	}
+	.news-more {
+		margin-top: 0.4em;
+		summary {
+			display: inline-block;
+			cursor: pointer;
+			list-style: none;
+			@include font-rem(14);
+			font-weight: 500;
+			color: $muted-color;
+			&::marker,
+			&::-webkit-details-marker {
+				display: none;
+			}
+			&::before {
+				content: "+ ";
+				font-weight: 600;
+			}
+			&:hover {
+				color: $linkcolorhover;
+			}
+		}
+		&[open] {
+			summary::before {
+				content: "\2013 ";
+			}
+		}
+	}
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
