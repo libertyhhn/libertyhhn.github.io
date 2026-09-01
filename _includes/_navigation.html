@@ -1,7 +1,14 @@
-<div class="navigation-wrapper"> 
+{% if page.layout == 'home2' %}
+<div class="site-hero">
+	<span class="site-hero-name"><a href="{{ site.url }}/">{{ site.title }}</a></span>
+</div><!-- /.site-hero -->
+{% endif %}
+<div class="navigation-wrapper">
+	{%- if page.layout != 'home2' -%}
  	<div class="site-name">
-		<a href="{{ site.url }}/">{{ site.title }}</a> 
+		<a href="{{ site.url }}/">{{ site.title }}</a>
 	</div><!-- /.site-name -->
+	{%- endif -%}
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>

@@ -17,6 +17,53 @@ body {
    Header
    ========================================================================== */
 
+/* Hero banner with site name (homepage) */
+.site-hero {
+	@include container;
+	position: relative;
+	height: 130px;
+	margin-top: 1.2em;
+	background: url("/images/sakura-banner.jpg") center 30% / cover no-repeat;
+	@include rounded(8px);
+	&:before {
+		content: "";
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		background: linear-gradient(to top, rgba(0,0,0,.45), rgba(0,0,0,.05) 60%);
+		@include rounded(8px);
+	}
+	.site-hero-name {
+		position: absolute;
+		left: 22px;
+		bottom: 12px;
+		z-index: 1;
+		a {
+			font-family: $heading-font;
+			font-weight: 700;
+			@include font-rem(22);
+			color: $white;
+			@include text-shadow(0 1px 4px rgba(0,0,0,.35));
+			&:hover {
+				color: $white;
+				text-decoration: none;
+			}
+		}
+	}
+	@media #{$small} {
+		height: 190px;
+		.site-hero-name a {
+			@include font-rem(28);
+		}
+	}
+}
+/* On mobile, keep the nav toggle from overlapping the hero */
+.site-hero + .navigation-wrapper .top-navigation {
+	margin-top: 0;
+}
+
 .navigation-wrapper {
 	@include container;
 	padding: 1.4em 0 1.1em;
