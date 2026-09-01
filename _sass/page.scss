@@ -369,8 +369,8 @@ $button-size: 1.5rem;
 	.about-contact-card {
 		margin: 1.2em 0 1.8em;
 		padding: 1em 1.25em;
-		border-left: 3px solid $linkcolor-textlink;
-		background: lighten($linkcolor-textlink, 50%);
+		border-left: 3px solid lighten($black, 60%);
+		background: $soft-bg;
 		@include rounded(8px);
 
 		.contact-list {
