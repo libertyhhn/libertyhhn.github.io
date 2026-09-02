@@ -1,4 +1,15 @@
 <meta charset="utf-8">
+<script>
+// Set theme before first paint to avoid a light/dark flash.
+(function () {
+  var theme = null;
+  try { theme = localStorage.getItem('theme'); } catch (e) {}
+  if (!theme && window.matchMedia) {
+    theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+  document.documentElement.setAttribute('data-theme', theme || 'light');
+})();
+</script>
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">

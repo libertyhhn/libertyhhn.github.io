@@ -1,6 +1,28 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
+<script>
+// Light/dark theme toggle button in the top navigation.
+(function () {
+  var toggle = document.getElementById('theme-toggle');
+  if (!toggle) { return; }
+  var icon = toggle.querySelector('i');
+  var root = document.documentElement;
+  function syncIcon() {
+    var dark = root.getAttribute('data-theme') === 'dark';
+    icon.setAttribute('class', 'fa ' + (dark ? 'fa-sun-o' : 'fa-moon-o'));
+    toggle.setAttribute('title', dark ? 'Switch to light mode' : 'Switch to dark mode');
+  }
+  toggle.addEventListener('click', function (e) {
+    e.preventDefault();
+    var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (err) {}
+    syncIcon();
+  });
+  syncIcon();
+})();
+</script>
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>

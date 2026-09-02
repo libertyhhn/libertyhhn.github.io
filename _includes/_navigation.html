@@ -20,6 +20,7 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
+		    	<li class="nav-theme-toggle"><a href="#" id="theme-toggle" role="button" aria-label="Toggle dark mode" title="Toggle dark mode"><i class="fa fa-moon-o" aria-hidden="true"></i></a></li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->

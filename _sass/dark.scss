@@ -1,0 +1,183 @@
+/* ==========================================================================
+   Dark mode overrides
+   Activated by html[data-theme="dark"] (set early in <head>, toggled by the
+   sun/moon button in the top navigation; choice persists via localStorage).
+   ========================================================================== */
+
+$dark-bg        : #14171a;
+$dark-surface   : #1d2126;
+$dark-border    : #2c3138;
+$dark-text      : #d3d7dc;
+$dark-heading   : #eceff1;
+$dark-muted     : #9aa1a8;
+$dark-link      : #7ab0ff;
+
+html[data-theme="dark"] {
+	color-scheme: dark;
+
+	body {
+		background-color: $dark-bg;
+		background: $dark-bg;
+		color: $dark-text;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: $dark-heading;
+	}
+
+	a {
+		color: $dark-text;
+		&:visited {
+			color: $dark-text;
+		}
+		&:hover,
+		&:focus {
+			color: $dark-link;
+		}
+	}
+
+	.textlink {
+		color: $dark-link;
+		&:visited {
+			color: $dark-link;
+		}
+		&:hover {
+			color: lighten($dark-link, 12%);
+		}
+	}
+
+	/* Header */
+	.navigation-wrapper {
+		border-bottom-color: $dark-border;
+	}
+
+	.top-navigation li {
+		border-bottom-color: rgba(255,255,255,.08);
+	}
+
+	/* Homepage sections */
+	#index {
+		h1, h3 {
+			border-bottom-color: $dark-border;
+		}
+		.news-date {
+			color: $dark-heading;
+		}
+		.news-more summary {
+			color: $dark-muted;
+			&:hover {
+				color: $dark-link;
+			}
+		}
+		.about-contact-card {
+			background: $dark-surface;
+			border-left-color: #3d4550;
+		}
+	}
+
+	/* Typography extras */
+	blockquote {
+		color: $dark-muted;
+		border-left-color: $dark-border;
+	}
+
+	figcaption,
+	.image-credit {
+		color: $dark-muted;
+		a {
+			color: $dark-muted;
+		}
+	}
+
+	.notice {
+		background-color: $dark-surface;
+		border-color: $dark-border;
+	}
+
+	hr {
+		border-top-color: $dark-border;
+		border-bottom-color: transparent;
+	}
+
+	/* Code */
+	p,
+	li {
+		code {
+			background-color: $dark-surface;
+			border-color: $dark-border;
+		}
+	}
+	.highlight {
+		background: $dark-surface;
+		pre {
+			background: $dark-surface;
+			color: $dark-text;
+			* {
+				color: inherit !important;
+				background: transparent !important;
+			}
+		}
+	}
+
+	/* Author sidebar */
+	.article-author-side,
+	.article-author-bottom {
+		p {
+			color: $dark-muted;
+		}
+	}
+	.author-social {
+		color: $dark-muted;
+		&:visited {
+			color: $dark-muted;
+		}
+		&:hover {
+			color: $dark-link;
+		}
+	}
+
+	/* Buttons and wells */
+	.btn {
+		background-color: $dark-surface;
+		border-color: $dark-border;
+		color: $dark-heading;
+		&:visited {
+			color: $dark-heading;
+		}
+		&:hover {
+			background-color: $dark-heading;
+			color: $dark-bg;
+		}
+	}
+
+	.well {
+		background-color: $dark-surface;
+		border-color: $dark-border;
+		@include box-shadow(none);
+	}
+
+	/* Table of contents */
+	.toc {
+		@media #{$large} {
+			background-color: $dark-surface;
+		}
+		header {
+			background: $dark-border;
+		}
+		li a {
+			background: $dark-surface;
+			color: $dark-text;
+		}
+	}
+
+	/* Footer */
+	.footer-wrap {
+		border-top-color: $dark-border;
+		color: $dark-muted;
+	}
+
+	/* Slightly dim images to reduce glare */
+	img {
+		filter: brightness(.92);
+	}
+}
