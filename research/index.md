@@ -12,7 +12,7 @@ share: false
 <ol>
 <h1>Selected Publications</h1>
 <p>
-Summary of my publications (by Dec., 2025): I have published 21 papers including 14 peer-reviewed journal papers (8 SCI JCR-Q1 papers), 7 peer-reviewed conference papers (including 3 toptier AI conference papers: 1 ICML, 1 NeurIPS and 1 CVPR). These papers have received over 200 citations (Source: Google Scholar). My h-index is 11 and i10-index is 11.
+Summary of my publications (by Aug., 2026): I have published 22 papers including 14 peer-reviewed journal papers (9 SCI JCR-Q1 papers), 8 peer-reviewed conference papers (including 4 toptier AI conference papers: 2 ICML, 1 NeurIPS and 1 CVPR). These papers have received over 300 citations (Source: Google Scholar). My h-index is 11 and i10-index is 14.
 <li>
 	A. Wang, Y. Qiu, <b>H.</b> <b>Huang</b>, Z. Jin, G. Zhou and Q. Zhao, "Towards a Geometric Understanding of Tensor Learning via the t-Product", The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025. 
 	<a href="https://neurips.cc/virtual/2025/poster/120278" style="text-decoration:underline;">[Paper]</a>			
