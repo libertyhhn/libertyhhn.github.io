@@ -1,6 +1,8 @@
 {% if page.layout == 'home2' %}
 <div class="site-hero">
-	<div class="site-hero-img" aria-hidden="true"></div>
+	<video class="site-hero-video" autoplay muted loop playsinline preload="metadata" poster="/images/sakura-banner.jpg" aria-hidden="true">
+		<source src="{{ site.url }}/images/sakura.mp4" type="video/mp4">
+	</video>
 	<span class="site-hero-name"><a href="{{ site.url }}/">{{ site.title }}</a></span>
 </div><!-- /.site-hero -->
 {% endif %}
