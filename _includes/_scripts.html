@@ -23,6 +23,27 @@
   syncIcon();
 })();
 </script>
+<script>
+// Falling sakura petals over the homepage hero banner.
+(function () {
+  var hero = document.querySelector('.site-hero');
+  if (!hero) { return; }
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) { return; }
+  var PETAL_COUNT = 12;
+  for (var i = 0; i < PETAL_COUNT; i++) {
+    var petal = document.createElement('span');
+    petal.className = 'sakura-petal';
+    var size = 8 + Math.random() * 7;
+    petal.style.left = (Math.random() * 100) + '%';
+    petal.style.width = size + 'px';
+    petal.style.height = (size * 0.85) + 'px';
+    petal.style.animationDuration = (7 + Math.random() * 6) + 's';
+    petal.style.animationDelay = (Math.random() * 9) + 's';
+    petal.style.setProperty('--petal-drift', Math.round(Math.random() * 90 - 45) + 'px');
+    hero.appendChild(petal);
+  }
+})();
+</script>
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>

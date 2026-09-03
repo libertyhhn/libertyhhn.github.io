@@ -21,10 +21,21 @@ body {
 .site-hero {
 	@include container;
 	position: relative;
+	overflow: hidden;
 	height: 130px;
 	margin-top: 1.2em;
-	background: url("/images/sakura-banner.jpg") center 30% / cover no-repeat;
 	@include rounded(8px);
+	.site-hero-img {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		background: url("/images/sakura-banner.jpg") center 30% / cover no-repeat;
+		-webkit-animation: kenburns 26s ease-in-out infinite alternate;
+		animation: kenburns 26s ease-in-out infinite alternate;
+		will-change: transform;
+	}
 	&:before {
 		content: "";
 		position: absolute;
@@ -62,6 +73,52 @@ body {
 /* On mobile, keep the nav toggle from overlapping the hero */
 .site-hero + .navigation-wrapper .top-navigation {
 	margin-top: 0;
+}
+
+/* Slow zoom on the hero image */
+@-webkit-keyframes kenburns {
+	from { -webkit-transform: scale(1); transform: scale(1); }
+	to   { -webkit-transform: scale(1.08); transform: scale(1.08); }
+}
+@keyframes kenburns {
+	from { -webkit-transform: scale(1); transform: scale(1); }
+	to   { -webkit-transform: scale(1.08); transform: scale(1.08); }
+}
+
+/* Falling sakura petals (spawned by JS in _scripts.html) */
+.sakura-petal {
+	position: absolute;
+	top: -22px;
+	z-index: 2;
+	background: linear-gradient(135deg, #ffe3ef, #ffb9d6);
+	border-radius: 75% 0 75% 0;
+	opacity: 0;
+	pointer-events: none;
+	-webkit-animation: petal-fall linear infinite;
+	animation: petal-fall linear infinite;
+}
+@-webkit-keyframes petal-fall {
+	0%   { opacity: 0; -webkit-transform: translate3d(0, 0, 0) rotate(0deg); transform: translate3d(0, 0, 0) rotate(0deg); }
+	12%  { opacity: .9; }
+	85%  { opacity: .9; }
+	100% { opacity: 0; -webkit-transform: translate3d(var(--petal-drift, 30px), 270px, 0) rotate(320deg); transform: translate3d(var(--petal-drift, 30px), 270px, 0) rotate(320deg); }
+}
+@keyframes petal-fall {
+	0%   { opacity: 0; -webkit-transform: translate3d(0, 0, 0) rotate(0deg); transform: translate3d(0, 0, 0) rotate(0deg); }
+	12%  { opacity: .9; }
+	85%  { opacity: .9; }
+	100% { opacity: 0; -webkit-transform: translate3d(var(--petal-drift, 30px), 270px, 0) rotate(320deg); transform: translate3d(var(--petal-drift, 30px), 270px, 0) rotate(320deg); }
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+	.site-hero-img {
+		-webkit-animation: none;
+		animation: none;
+	}
+	.sakura-petal {
+		display: none;
+	}
 }
 
 .navigation-wrapper {
